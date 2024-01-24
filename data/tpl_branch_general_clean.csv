@@ -1,0 +1,101 @@
+_id,BranchCode,PhysicalBranch,BranchName,SquareFootage,PublicParking,KidsStop,LeadingReading,ComputerLearningCentre,DigitalInnovationHub,TeenCouncil,YouthHub,AdultLiteracyProgram,Workstations,ServiceTier,Lat,Long,NBHDNo,NBHDName,TPLNIA,PresentSiteYear
+1,AB,1,Albion,29000,59,1,1,1,1,1,1,1,38,DL,43.739826,-79.584096,2,Mount Olive-Silverstone-Jamestown,1,2017
+2,ACD,1,Albert Campbell,28957,45,0,1,1,1,1,1,0,36,DL,43.708019,-79.269252,120,Clairlea-Birchmount ,1,1971
+3,AD,1,Alderwood,7341,shared,0,0,0,0,0,0,0,7,NL,43.601944,-79.547252,20,Alderwood,0,1999
+4,AG,1,Agincourt,27000,86,0,1,1,1,0,1,0,42,DL,43.785167,-79.29343,118,Tam O'Shanter-Sullivan ,0,1991
+5,AH,1,Armour Heights,2988,shared,0,0,0,0,0,0,0,5,NL,43.739337,-79.421889,39,Bedford Park-Nortown ,0,1982
+7,AN,1,Annette Street,7806,0,0,0,0,0,0,0,0,11,NL,43.663359,-79.466348,90,Junction Area ,0,1908
+8,AP,1,Amesbury Park,6320,22,0,0,0,0,0,0,0,6,NL,43.706456,-79.485726,30,Brookhaven-Amesbury ,1,1967
+9,BB,1,Brookbanks,7933,20,0,0,0,0,0,0,0,9,NL,43.759507,-79.325904,150,Fenside-Parkwoods,0,1968
+10,BC,1,Black Creek,5782,shared,0,0,0,0,0,0,0,7,NL,43.721219,-79.510467,26,Downsview-Roding-CFB,1,2002
+11,BD,1,Bendale,8500,30,0,0,0,0,0,0,0,9,NL,43.751063,-79.244052,157,Bendale South,1,1961
+12,BE,1,Beaches,8000,0,0,0,0,0,0,0,0,12,NL,43.67013,-79.298526,63,The Beaches ,0,1914
+13,BF,1,Barbara Frum,29417,6,0,1,1,0,1,1,1,30,DL,43.720752,-79.432215,32,Englemount-Lawrence ,0,1992
+16,BL,1,Bloor/Gladstone,20627,0,1,0,1,0,0,0,0,36,DL,43.659878,-79.434022,83,Dufferin Grove ,0,1913
+17,BR,1,Brentwood,17500,0,1,0,1,0,1,0,0,33,DL,43.647448,-79.514259,15,Kingsway South ,0,1955
+18,BRW,1,Bridlewood,8000,shared,0,1,0,0,0,0,0,7,NL,43.797144,-79.31777,147,L'Amoreaux West,0,1992
+19,BUR,1,Burrows Hall,6500,shared,0,0,0,0,0,0,0,10,NL,43.793885,-79.23423,146,Malvern East,1,1998
+20,CC,1,Cliffcrest,4859,shared,0,0,0,0,0,0,0,9,NL,43.72517,-79.23077,123,Cliffcrest ,1,2008
+21,CE,1,Centennial,6866,18,0,0,0,0,0,1,0,8,NL,43.772989,-79.449578,35,Westminster-Branson,0,1966
+22,CED,1,Cedarbrae,31506,69,1,1,1,0,1,1,0,66,DL,43.75753,-79.223963,141,Golfdale-Cedarbrae-Woburn,1,1958
+23,CH,1,City Hall,5074,0,0,0,0,0,0,0,0,9,NL,43.653367,-79.383993,170,Yonge-Bay Corridor,0,1965
+24,CL,1,North York Central Library,168022,0,1,0,1,1,1,1,1,98,RR,43.768078,-79.414244,37,Willowdale West,0,1987
+25,CS,1,College/Shaw,7664,0,0,0,0,0,0,0,0,7,NL,43.655159,-79.420111,80,Palmerston-Little Italy ,0,1984
+26,DA,1,Danforth/Coxwell,9617,1,0,0,0,0,0,0,0,9,NL,43.683574,-79.3214,64,Woodbine Corridor,0,1989
+27,DM,1,Don Mills,21563,47,0,0,0,0,1,1,1,25,DL,43.736641,-79.347341,42,Banbury-Don Mills ,0,1961
+28,DO,1,Downsview,20016,16,1,1,1,1,0,1,1,32,NL,43.72887,-79.482052,26,Downsview-Roding-CFB,1,1962
+29,DP,1,Deer Park,16558,0,0,0,0,0,0,0,0,13,NL,43.688581,-79.392481,98,Rosedale-Moore Park,0,1952
+30,DR,1,Dawes Road,6740,0,0,0,0,0,0,0,0,15,NL,43.701174,-79.297326,54,O'Connor-Parkview,1,1976
+32,DT,1,Davenport,3604,0,0,0,0,0,0,0,0,3,NL,43.67453,-79.428452,94,Wychwood ,0,1988
+33,DU,1,Dufferin/St. Clair,11208,0,1,0,0,0,0,0,0,20,NL,43.67693,-79.442407,92,Corso Italia-Davenport,0,1921
+34,EA,1,Eatonville,12203,49,0,1,0,0,0,0,0,13,NL,43.646122,-79.559163,14,Islington-City Centre West,0,1964
+35,EB,1,Elmbrook Park,3600,12,0,0,0,0,0,0,0,4,NL,43.660122,-79.583844,11,Eringate-Centennial-West Deane,0,1988
+36,EG,1,Evelyn Gregory,6200,19,0,0,0,0,0,0,0,12,NL,43.686189,-79.472348,110,Keelesdale-Eglinton West,1,1968
+37,EN,1,Ethennonnhawahstihnen',13418,shared,1,0,0,0,0,0,0,14,NL,43.76875,-79.375653,52,Bayview Village ,0,2023
+38,ES,1,Eglinton Square,10000,shared,0,0,0,0,0,0,0,11,NL,43.723685,-79.300333,120,Clairlea-Birchmount,1,1983
+39,FH,1,Forest Hill,10399,0,0,0,0,0,1,0,0,7,NL,43.702367,-79.42057,102,Forest Hill North,0,1962
+40,FO,1,Fort York,16008,0,0,0,1,1,0,0,0,16,NL,43.63932,-79.40033,165,Harbourfront-CityPlace,0,2014
+41,FP,1,Flemingdon Park,7250,shared,0,1,0,0,1,1,0,15,NL,43.717811,-79.331756,44,Flemingdon Park ,1,1981
+42,FV,1,Fairview,69458,114,1,1,1,0,1,1,1,55,DL,43.779026,-79.346644,47,Don Valley Village,0,1976
+43,GE,1,Gerrard/Ashdale,6504,4,0,0,0,0,0,0,0,8,NL,43.672463,-79.322126,65,Greenwood-Coxwell  ,0,1924
+44,GHP,1,Goldhawk Park,8000,32,0,0,0,0,0,0,0,10,NL,43.823974,-79.277993,130,Milliken  ,0,1992
+45,GW,1,Guildwood,4577,shared,0,0,0,0,0,0,0,6,NL,43.74667,-79.199889,140,Guildwood  ,0,1974
+46,HB,1,Humber Bay,2400,5,0,0,0,0,0,0,0,4,NL,43.629959,-79.491193,16,Stonegate-Queensway,0,1951
+47,HC,1,Highland Creek,7000,22,0,0,0,0,0,0,0,11,NL,43.789959,-79.175207,134,Highland Creek ,0,1994
+48,HIL,1,Hillcrest,7473,28,0,0,0,0,0,0,0,12,NL,43.797026,-79.369044,48,Hillcrest Village ,0,1975
+50,HP,1,High Park,8850,0,0,0,0,0,0,0,0,9,NL,43.645204,-79.448985,87,High Park-Swansea ,0,1916
+51,HS,1,Humber Summit,9040,15,0,0,0,0,0,0,0,9,NL,43.758981,-79.571519,21,Humber Summit,1,1974
+52,HW,1,Humberwood,5748,shared,0,0,0,0,0,0,0,7,NL,43.728996,-79.619163,1,West Humber-Clairville,0,1996
+54,JD,1,Jane/Dundas,11955,16,0,0,0,0,0,1,0,19,NL,43.66547,-79.491415,89,Runnymede-Bloor West Village ,1,1975
+55,JO,1,Jones,3636,2,0,0,0,0,0,0,0,7,NL,43.665952,-79.334496,70,South Riverdale,0,1962
+56,JS,1,Jane/Sheppard,7000,17,0,1,0,0,0,0,0,9,NL,43.73988,-79.51005,25,Glenfield-Jane Heights ,1,1989
+57,KE,1,Kennedy/Eglinton,6713,shared,0,1,0,0,1,1,0,14,NL,43.732159,-79.270496,125,Ionview ,1,1988
+58,LB,1,Long Branch,6418,11,0,0,0,0,0,0,0,11,NL,43.595263,-79.531504,19,Long Branch,0,1955
+60,LE,1,Leaside,12000,0,0,0,0,0,1,0,0,13,NL,43.706493,-79.367563,56,Leaside-Bennington ,0,1950
+61,LO,1,Locke,11647,10,0,0,0,0,0,0,0,12,NL,43.724878,-79.401815,103,Lawrence Park South,0,1949
+62,LS,1,Lillian H. Smith,38935,0,0,1,1,0,1,0,0,34,DL,43.6581,-79.3984,78,Kensington-Chinatown ,0,1995
+63,MA,1,Main Street,8664,8,0,0,0,0,0,0,0,9,NL,43.683359,-79.299578,62,East End-Danforth,0,1921
+64,MAL,1,Malvern,25834,shared,0,1,1,0,1,1,1,38,DL,43.808315,-79.216067,146,Malvern East,0,1982
+65,MAS,1,Maria A. Shchuka,25475,14,0,1,1,0,1,1,1,35,DL,43.69613,-79.447193,107,Oakwood-Vaughan,0,1951
+66,MCG,1,McGregor Park,7793,35,0,0,0,0,0,0,0,14,NL,43.747707,-79.280719,126,Dorset Park  ,0,2004
+67,MD,1,Mount Dennis,11350,19,1,1,0,0,1,1,0,20,NL,43.686581,-79.488259,115,Mount Dennis ,1,1951
+69,MI,1,Mimico Centennial,17469,11,0,0,0,0,0,0,0,9,NL,43.614907,-79.493904,160,Mimico-Queensway,0,1915
+70,MP,1,Mount Pleasant,5829,0,0,0,0,0,0,0,0,2,NL,43.7039,-79.388126,99,Mount Pleasant East  ,0,1992
+71,MRV,1,Maryvale,11746,shared,1,0,0,0,0,0,0,12,NL,43.757263,-79.311711,119,Wexford-Maryvale ,0,1987
+72,MS,1,Morningside,7000,shared,0,0,0,0,0,0,0,10,NL,43.769885,-79.178541,136,West Hill ,1,2006
+73,ND,1,Northern District,48645,0,0,0,1,0,1,0,0,27,DL,43.708241,-79.399874,100,Yonge-Eglinton,0,1984
+74,NE,1,Northern Elms,3936,shared,0,0,0,0,0,0,0,6,NL,43.71133,-79.565548,1,West Humber-Clairville,1,2005
+75,NT,1,New Toronto,9925,10,0,0,0,0,0,0,0,8,NL,43.599085,-79.509741,18,New Toronto  ,0,1994
+77,OV,1,Oakwood Village Library and Arts Centre,17270,0,0,0,0,0,0,0,0,11,NL,43.686544,-79.438111,107,Oakwood-Vaughan ,0,1997
+78,PA,1,Pape/Danforth,8175,0,0,0,0,0,0,0,0,14,DL,43.678559,-79.34457,69,Blake-Jones ,0,1929
+79,PE,1,Perth/Dupont,3627,0,0,0,0,0,0,0,0,3,NL,43.665033,-79.45383,171,Junction-Wallace Emerson,0,1983
+80,PK,1,Parkdale,24083,0,0,1,0,0,0,1,0,24,NL,43.641174,-79.432659,85,South Parkdale,1,1964
+81,PL,1,Parliament Street,14634,0,0,1,0,0,0,1,0,12,NL,43.661804,-79.3678,73,Moss Park,1,1969
+82,PM,1,Palmerston,8493,0,0,0,0,0,0,0,0,7,NL,43.665093,-79.414052,95,Annex,0,1971
+84,PU,1,Port Union,5000,shared,0,0,0,0,0,0,0,6,NL,43.779478,-79.140289,133,Centennial Scarborough ,0,1984
+85,PV,1,Pleasant View,7000,26,0,0,0,0,0,0,0,8,NL,43.787559,-79.33543,46,Pleasant View,0,1975
+86,QS,1,Queen/Saulter,2957,0,0,0,0,0,0,0,0,6,NL,43.659144,-79.347593,70,South Riverdale,0,1980
+87,RD,1,Riverdale,9658,0,0,0,0,0,0,0,0,18,NL,43.665759,-79.353163,68,North Riverdale ,0,1928
+88,RI,1,Richview,47252,139,1,1,1,1,0,1,0,44,DL,43.683404,-79.541119,7,Willowridge-Martingrove-Richview,1,1966
+89,RN,1,Runnymede,12034,0,0,0,0,0,0,0,0,15,NL,43.651856,-79.473844,88,High Park North,0,1930
+90,RX,1,Rexdale,5088,12,0,0,0,0,0,0,0,6,NL,43.72613,-79.573207,4,Rexdale-Kipling,1,1959
+91,SA,1,Sanderson,12702,0,0,1,0,0,0,1,0,14,NL,43.652085,-79.405519,78,Kensington-Chinatown ,0,1979
+93,SC,1,Scarborough Civic Centre,14500,0,1,1,0,1,0,0,0,18,NL,43.772096,-79.256764,156,Bendale -Glen Andrew,1,2015
+94,SI,1,St. Clair/Silverthorn,4850,0,0,0,0,0,0,0,0,5,NL,43.674263,-79.460585,91,Weston-Pellam Park,1,1981
+95,SJ,1,St. James Town,7800,0,0,1,0,0,0,0,0,19,NL,43.667263,-79.374467,74,North St. James Town ,0,2004
+96,SL,1,St. Lawrence,4833,0,0,0,0,0,0,0,0,7,NL,43.649981,-79.368496,166,St Lawrence-East Bayfront-The Islands,0,1982
+97,SP,1,Spadina Road,3952,0,0,0,0,0,0,0,0,5,NL,43.667159,-79.404378,95,Annex,0,1977
+98,ST,1,Steeles,5453,shared,0,0,0,0,0,0,0,8,NL,43.815381,-79.322304,116,Steeles ,0,1987
+99,SW,1,Swansea Memorial,1127,shared,0,0,0,0,0,0,0,3,NL,43.64793,-79.478022,87,High Park-Swansea,0,1959
+100,SWS,1,S. Walter Stewart,25847,19,1,0,1,0,0,1,1,39,DL,43.692115,-79.329696,59,Danforth Village - East York,0,1960
+101,TA,1,Taylor Memorial,5000,4,0,0,0,0,0,0,0,8,NL,43.687781,-79.271252,122,Birchcliffe-Cliffside,0,1962
+102,TH,1,Thorncliffe,11034,shared,1,1,0,0,0,1,0,19,NL,43.702907,-79.342644,55,Thorncliffe Park ,1,1970
+103,TOD,1,Todmorden Room,554,shared,0,0,0,0,0,0,0,2,NL,43.691626,-79.349326,58,Old East York ,0,1961
+104,TRL,1,Toronto Reference Library,426535,0,0,0,1,1,1,0,0,213,RR,43.671737,-79.386763,98,Rosedale-Moore Park ,0,1977
+106,VV,1,Victoria Village,5383,29,0,0,0,0,0,0,0,6,NL,43.736011,-79.312911,43,Victoria Village ,1,1967
+107,WE,1,Weston,11944,9,0,1,0,0,0,1,0,11,NL,43.701796,-79.520585,113,Weston ,1,1914
+108,WP,1,Woodview Park,4110,shared,0,0,0,0,1,0,0,9,NL,43.739722,-79.538941,22,Humbermede ,1,1964
+109,WS,1,Woodside Square,9944,shared,0,1,0,0,1,0,0,22,NL,43.809463,-79.269548,129,Agincourt North,0,1977
+110,WY,1,Wychwood,15798,0,0,0,0,0,0,0,0,11,NL,43.682181,-79.417548,96,Casa Loma ,0,1916
+111,YO,1,Yorkville,9053,0,0,0,0,0,0,0,0,7,NL,43.671826,-79.388644,95,Annex ,0,1907
+112,YW,1,York Woods,42176,89,0,0,1,0,0,1,1,46,DL,43.758893,-79.507267,25,Glenfield-Jane Heights ,1,1970
