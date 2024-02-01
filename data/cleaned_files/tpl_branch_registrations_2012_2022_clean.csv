@@ -1,101 +1,1096 @@
-BranchCode,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,NBHDNo,NBHDName
-AB,4939.0,4483.0,3810.0,4272.0,4474.0,6889.0,7788.0,7314.0,2072.0,1953.0,5093.0,2,Mount Olive-Silverstone-Jamestown
-ACD,1695.0,1770.0,1782.0,1448.0,1592.0,1625.0,1789.0,1352.0,25.0,154.0,1577.0,120,Clairlea-Birchmount 
-AD,445.0,504.0,543.0,519.0,526.0,545.0,733.0,712.0,164.0,363.0,711.0,20,Alderwood
-AG,3166.0,3586.0,3171.0,2919.0,2318.0,2538.0,3658.0,3404.0,1064.0,1194.0,2959.0,118,Tam O'Shanter-Sullivan 
-AH,467.0,501.0,608.0,545.0,567.0,645.0,859.0,842.0,194.0,233.0,398.0,39,Bedford Park-Nortown 
-AN,918.0,814.0,878.0,915.0,1058.0,1234.0,1349.0,1274.0,450.0,462.0,905.0,90,Junction Area 
-AP,901.0,911.0,1020.0,709.0,796.0,485.0,1045.0,1000.0,408.0,328.0,1019.0,30,Brookhaven-Amesbury 
-BB,720.0,807.0,705.0,753.0,770.0,792.0,1233.0,1597.0,385.0,393.0,933.0,150,Fenside-Parkwoods
-BC,1167.0,1063.0,1206.0,1109.0,1082.0,1210.0,1688.0,2389.0,494.0,284.0,994.0,26,Downsview-Roding-CFB
-BD,820.0,823.0,838.0,707.0,686.0,709.0,1055.0,909.0,341.0,450.0,942.0,157,Bendale South
-BE,1525.0,1481.0,1523.0,1546.0,1634.0,1533.0,1810.0,1887.0,813.0,873.0,1587.0,63,The Beaches 
-BF,2303.0,1848.0,2053.0,2119.0,2022.0,2256.0,2884.0,3112.0,862.0,939.0,2125.0,32,Englemount-Lawrence 
-BL,2798.0,2698.0,3109.0,3111.0,3076.0,3267.0,3787.0,4130.0,1344.0,1356.0,2694.0,83,Dufferin Grove 
-BR,766.0,2280.0,2032.0,1725.0,1950.0,2237.0,2483.0,2858.0,917.0,1031.0,2116.0,15,Kingsway South 
-BRW,2015.0,2099.0,2016.0,1729.0,1965.0,2045.0,2908.0,2625.0,673.0,1199.0,2632.0,147,L'Amoreaux West
-BUR,955.0,967.0,825.0,766.0,802.0,735.0,1056.0,1130.0,203.0,217.0,835.0,146,Malvern East
-CC,837.0,789.0,765.0,659.0,789.0,725.0,963.0,1074.0,504.0,494.0,1154.0,123,Cliffcrest 
-CE,1631.0,1836.0,1604.0,1756.0,1614.0,2092.0,2296.0,2120.0,758.0,819.0,1848.0,35,Westminster-Branson
-CED,4750.0,4395.0,3958.0,3824.0,3861.0,3831.0,4913.0,4849.0,1594.0,1518.0,3543.0,141,Golfdale-Cedarbrae-Woburn
-CH,1685.0,1992.0,2142.0,1934.0,2655.0,2504.0,3182.0,3798.0,1268.0,28.0,1938.0,170,Yonge-Bay Corridor
-CL,10291.0,11924.0,12262.0,13064.0,12204.0,4960.0,12469.0,14523.0,3481.0,3894.0,9855.0,37,Willowdale West
-CS,1035.0,950.0,1082.0,949.0,1037.0,1115.0,1203.0,1462.0,544.0,625.0,1044.0,80,Palmerston-Little Italy 
-DA,1016.0,1110.0,1109.0,1080.0,1078.0,1174.0,1314.0,1555.0,560.0,589.0,1296.0,64,Woodbine Corridor
-DM,1873.0,1898.0,1897.0,2152.0,2062.0,1909.0,2310.0,2137.0,805.0,940.0,1982.0,42,Banbury-Don Mills 
-DO,1636.0,1920.0,1861.0,1669.0,1549.0,1927.0,2468.0,1796.0,691.0,801.0,1978.0,26,Downsview-Roding-CFB
-DP,1817.0,1844.0,1824.0,1790.0,1798.0,1850.0,2462.0,2334.0,782.0,1186.0,1792.0,98,Rosedale-Moore Park
-DR,1184.0,1326.0,1213.0,1305.0,1269.0,1334.0,1381.0,1282.0,501.0,550.0,1149.0,54,O'Connor-Parkview
-DT,275.0,240.0,312.0,242.0,280.0,316.0,452.0,560.0,122.0,51.0,367.0,94,Wychwood 
-DU,954.0,954.0,889.0,814.0,834.0,808.0,1420.0,1442.0,496.0,501.0,1010.0,92,Corso Italia-Davenport
-EA,2423.0,2285.0,2752.0,2693.0,2849.0,2754.0,3085.0,3621.0,1151.0,1166.0,2771.0,14,Islington-City Centre West
-EB,322.0,354.0,410.0,398.0,411.0,410.0,476.0,512.0,143.0,209.0,514.0,11,Eringate-Centennial-West Deane
-EG,524.0,490.0,646.0,524.0,548.0,573.0,605.0,731.0,164.0,249.0,584.0,110,Keelesdale-Eglinton West
-EN,1820.0,2343.0,2096.0,1854.0,1924.0,2628.0,2812.0,2582.0,700.0,1224.0,2031.0,52,Bayview Village 
-ES,1392.0,1491.0,1523.0,1398.0,719.0,1366.0,2646.0,2799.0,603.0,896.0,1928.0,120,Clairlea-Birchmount
-FH,922.0,890.0,972.0,1004.0,866.0,951.0,1093.0,1091.0,442.0,500.0,889.0,102,Forest Hill North
-FO,0.0,0.0,3651.0,3732.0,3485.0,3661.0,4097.0,4769.0,1874.0,2709.0,4509.0,165,Harbourfront-CityPlace
-FP,1382.0,1399.0,1002.0,1058.0,1065.0,991.0,1132.0,1204.0,287.0,536.0,1221.0,44,Flemingdon Park 
-FV,4064.0,26.0,5568.0,5792.0,5805.0,6056.0,8251.0,7751.0,2168.0,2589.0,5675.0,47,Don Valley Village
-GE,528.0,539.0,579.0,511.0,634.0,735.0,774.0,832.0,242.0,311.0,509.0,65,Greenwood-Coxwell  
-GHP,801.0,818.0,862.0,777.0,818.0,856.0,942.0,851.0,299.0,404.0,819.0,130,Milliken  
-GW,380.0,336.0,403.0,389.0,357.0,348.0,477.0,342.0,227.0,239.0,430.0,140,Guildwood  
-HB,617.0,634.0,614.0,552.0,691.0,655.0,783.0,926.0,172.0,210.0,651.0,16,Stonegate-Queensway
-HC,762.0,785.0,796.0,702.0,645.0,757.0,1016.0,1116.0,388.0,496.0,811.0,134,Highland Creek 
-HIL,915.0,1350.0,912.0,763.0,777.0,938.0,1057.0,980.0,330.0,499.0,771.0,48,Hillcrest Village 
-HP,953.0,1158.0,1224.0,1200.0,1275.0,1285.0,1525.0,1874.0,625.0,629.0,1167.0,87,High Park-Swansea 
-HS,604.0,743.0,493.0,457.0,449.0,289.0,790.0,685.0,192.0,204.0,481.0,21,Humber Summit
-HW,485.0,482.0,468.0,510.0,611.0,565.0,680.0,669.0,116.0,254.0,574.0,1,West Humber-Clairville
-JD,1752.0,2561.0,1488.0,1202.0,1211.0,1359.0,1672.0,1755.0,572.0,540.0,1404.0,89,Runnymede-Bloor West Village 
-JO,535.0,633.0,680.0,659.0,793.0,674.0,907.0,896.0,339.0,372.0,748.0,70,South Riverdale
-JS,1034.0,1330.0,1099.0,1065.0,1042.0,1121.0,1270.0,1781.0,617.0,564.0,1398.0,25,Glenfield-Jane Heights 
-KE,1430.0,1539.0,1323.0,1391.0,1337.0,1547.0,1492.0,1568.0,507.0,726.0,1859.0,125,Ionview 
-LB,652.0,660.0,783.0,663.0,763.0,579.0,908.0,899.0,354.0,387.0,736.0,19,Long Branch
-LE,1065.0,1103.0,1147.0,1135.0,1185.0,1274.0,1511.0,1530.0,625.0,851.0,1432.0,56,Leaside-Bennington 
-LO,1597.0,1547.0,1577.0,1526.0,1503.0,1849.0,2111.0,2157.0,891.0,842.0,1204.0,103,Lawrence Park South
-LS,3194.0,3254.0,3243.0,3219.0,3222.0,3198.0,3555.0,3362.0,1285.0,1927.0,3242.0,78,Kensington-Chinatown 
-MA,866.0,836.0,852.0,894.0,960.0,999.0,1195.0,1202.0,462.0,521.0,1040.0,62,East End-Danforth
-MAL,2534.0,2661.0,2728.0,2219.0,2404.0,2516.0,3394.0,3332.0,1042.0,1097.0,2799.0,146,Malvern East
-MAS,1806.0,1791.0,1794.0,1790.0,1818.0,1599.0,1873.0,1819.0,670.0,727.0,1424.0,107,Oakwood-Vaughan
-MCG,1321.0,1346.0,1351.0,1287.0,1259.0,1368.0,1542.0,1680.0,538.0,608.0,1434.0,126,Dorset Park  
-MD,3.0,995.0,798.0,728.0,804.0,821.0,912.0,1027.0,358.0,323.0,866.0,115,Mount Dennis 
-MI,834.0,816.0,834.0,846.0,898.0,954.0,1056.0,1129.0,483.0,527.0,935.0,160,Mimico-Queensway
-MP,510.0,591.0,556.0,546.0,656.0,589.0,837.0,776.0,147.0,4.0,7.0,99,Mount Pleasant East  
-MRV,994.0,1102.0,1149.0,1181.0,1266.0,1158.0,1538.0,1505.0,331.0,449.0,1340.0,119,Wexford-Maryvale 
-MS,1146.0,1038.0,1152.0,1005.0,1168.0,1059.0,1573.0,1528.0,633.0,663.0,1557.0,136,West Hill 
-ND,2755.0,2665.0,2553.0,2466.0,3050.0,3384.0,4164.0,4118.0,1539.0,1765.0,3819.0,100,Yonge-Eglinton
-NE,446.0,414.0,383.0,354.0,386.0,457.0,512.0,555.0,210.0,175.0,380.0,1,West Humber-Clairville
-NT,583.0,568.0,527.0,517.0,624.0,597.0,633.0,788.0,254.0,260.0,698.0,18,New Toronto  
-OV,600.0,604.0,606.0,509.0,571.0,613.0,734.0,939.0,341.0,431.0,691.0,107,Oakwood-Vaughan 
-PA,1397.0,1538.0,1674.0,1449.0,1723.0,1645.0,2249.0,2105.0,824.0,746.0,1515.0,69,Blake-Jones 
-PE,185.0,234.0,282.0,245.0,290.0,376.0,574.0,548.0,113.0,136.0,442.0,171,Junction-Wallace Emerson
-PK,1994.0,1883.0,2014.0,1960.0,1909.0,2129.0,2802.0,2068.0,1201.0,1225.0,2718.0,85,South Parkdale
-PL,1649.0,1632.0,1561.0,1564.0,1540.0,1680.0,2071.0,1102.0,965.0,1001.0,1873.0,73,Moss Park
-PM,754.0,765.0,816.0,813.0,833.0,816.0,1020.0,1176.0,604.0,556.0,879.0,95,Annex
-PU,819.0,850.0,842.0,843.0,737.0,849.0,1144.0,1076.0,195.0,245.0,838.0,133,Centennial Scarborough 
-PV,713.0,1192.0,701.0,482.0,561.0,569.0,666.0,681.0,248.0,245.0,582.0,46,Pleasant View
-QS,417.0,424.0,473.0,437.0,498.0,566.0,612.0,722.0,168.0,190.0,620.0,70,South Riverdale
-RD,986.0,1014.0,962.0,881.0,976.0,914.0,1322.0,1466.0,517.0,584.0,976.0,68,North Riverdale 
-RI,3082.0,2608.0,2549.0,2841.0,2872.0,2833.0,3638.0,3800.0,1230.0,1232.0,3175.0,7,Willowridge-Martingrove-Richview
-RN,1782.0,1727.0,1823.0,1833.0,1867.0,1296.0,2512.0,2536.0,886.0,995.0,2074.0,88,High Park North
-RX,421.0,422.0,406.0,400.0,462.0,427.0,466.0,514.0,108.0,173.0,365.0,4,Rexdale-Kipling
-SA,1419.0,1492.0,1254.0,1073.0,1169.0,1247.0,2048.0,2158.0,628.0,663.0,1257.0,78,Kensington-Chinatown 
-SC,0.0,0.0,0.0,2242.0,2173.0,2449.0,2686.0,2836.0,995.0,1214.0,2536.0,156,Bendale -Glen Andrew
-SI,306.0,290.0,319.0,284.0,306.0,287.0,6.0,254.0,186.0,254.0,450.0,91,Weston-Pellam Park
-SJ,1828.0,1695.0,1594.0,1427.0,1588.0,1659.0,2137.0,2297.0,378.0,350.0,1864.0,74,North St. James Town 
-SL,915.0,1141.0,1275.0,1278.0,1415.0,1769.0,2140.0,2550.0,980.0,1068.0,1880.0,166,St Lawrence-East Bayfront-The Islands
-SP,754.0,691.0,638.0,737.0,720.0,743.0,925.0,1083.0,187.0,267.0,747.0,95,Annex
-ST,902.0,1058.0,826.0,1052.0,1004.0,897.0,898.0,1570.0,315.0,418.0,1097.0,116,Steeles 
-SW,88.0,67.0,81.0,85.0,92.0,203.0,124.0,133.0,16.0,1.0,157.0,87,High Park-Swansea
-SWS,1360.0,1293.0,1415.0,1239.0,1269.0,1339.0,1760.0,1955.0,561.0,648.0,1488.0,59,Danforth Village - East York
-TA,443.0,317.0,453.0,421.0,401.0,343.0,497.0,545.0,212.0,245.0,408.0,122,Birchcliffe-Cliffside
-TH,1555.0,2090.0,1612.0,1507.0,1627.0,1599.0,1753.0,1948.0,525.0,580.0,1589.0,55,Thorncliffe Park 
-TOD,157.0,192.0,197.0,170.0,190.0,209.0,204.0,244.0,45.0,50.0,183.0,58,Old East York 
-TRL,8682.0,9618.0,11308.0,11617.0,13403.0,13511.0,14975.0,14461.0,4261.0,3815.0,9448.0,98,Rosedale-Moore Park 
-VV,427.0,429.0,394.0,465.0,541.0,471.0,630.0,544.0,207.0,226.0,444.0,43,Victoria Village 
-WE,1092.0,873.0,809.0,979.0,1027.0,1067.0,1279.0,1518.0,445.0,488.0,1080.0,113,Weston 
-WP,515.0,647.0,495.0,426.0,480.0,506.0,573.0,784.0,252.0,190.0,413.0,22,Humbermede 
-WS,2013.0,2229.0,2149.0,2005.0,2000.0,2046.0,2387.0,2341.0,503.0,754.0,1788.0,129,Agincourt North
-WY,845.0,1000.0,943.0,1032.0,1164.0,1101.0,579.0,17.0,4.0,18.0,1035.0,96,Casa Loma 
-YO,1042.0,1052.0,1011.0,1012.0,1003.0,1215.0,1296.0,1349.0,278.0,464.0,1081.0,95,Annex 
-YW,3008.0,2280.0,2874.0,2452.0,2379.0,2952.0,3361.0,2773.0,396.0,415.0,1116.0,25,Glenfield-Jane Heights 
+NBHDNo,NBHDName,BranchCode,BranchName,Year,Registrations
+002,Mount Olive-Silverstone-Jamestown,AB,Albion,2012,4939
+120,Clairlea-Birchmount,ACD,Albert Campbell,2012,1695
+020,Alderwood,AD,Alderwood,2012,445
+118,Tam O'Shanter-Sullivan,AG,Agincourt,2012,3166
+039,Bedford Park-Nortown,AH,Armour Heights,2012,467
+090,Junction Area,AN,Annette Street,2012,918
+030,Brookhaven-Amesbury,AP,Amesbury Park,2012,901
+150,Fenside-Parkwoods,BB,Brookbanks,2012,720
+154,Oakdale-Beverley Heights,BC,Black Creek,2012,1167
+157,Bendale South,BD,Bendale,2012,820
+063,The Beaches,BE,Beaches,2012,1525
+032,Englemount-Lawrence,BF,Barbara Frum,2012,2303
+083,Dufferin Grove,BL,Bloor/Gladstone,2012,2798
+015,Kingsway South,BR,Brentwood,2012,766
+147,L'Amoreaux West,BRW,Bridlewood,2012,2015
+146,Malvern East,BUR,Burrows Hall,2012,955
+123,Cliffcrest,CC,Cliffcrest,2012,837
+035,Westminster-Branson,CE,Centennial,2012,1631
+141,Golfdale-Cedarbrae-Woburn,CED,Cedarbrae,2012,4750
+170,Yonge-Bay Corridor,CH,City Hall,2012,1685
+037,Willowdale West,CL,North York Central Library,2012,10291
+080,Palmerston-Little Italy,CS,College/Shaw,2012,1035
+064,Woodbine Corridor,DA,Danforth/Coxwell,2012,1016
+042,Banbury-Don Mills,DM,Don Mills,2012,1873
+155,Downsview,DO,Downsview,2012,1636
+098,Rosedale-Moore Park,DP,Deer Park,2012,1817
+054,O'Connor-Parkview,DR,Dawes Road,2012,1184
+094,Wychwood,DT,Davenport,2012,275
+092,Corso Italia-Davenport,DU,Dufferin/St. Clair,2012,954
+158,Islington,EA,Eatonville,2012,2423
+011,Eringate-Centennial-West Deane,EB,Elmbrook Park,2012,322
+110,Keelesdale-Eglinton West,EG,Evelyn Gregory,2012,524
+052,Bayview Village,EN,Ethennonnhawahstihnen',2012,1820
+120,Clairlea-Birchmount,ES,Eglinton Square,2012,1392
+102,Forest Hill North,FH,Forest Hill,2012,922
+044,Flemingdon Park,FP,Flemingdon Park,2012,1382
+047,Don Valley Village,FV,Fairview,2012,4064
+065,Greenwood-Coxwell,GE,Gerrard/Ashdale,2012,528
+130,Milliken,GHP,Goldhawk Park,2012,801
+140,Guildwood,GW,Guildwood,2012,380
+016,Stonegate-Queensway,HB,Humber Bay,2012,617
+134,Highland Creek,HC,Highland Creek,2012,762
+048,Hillcrest Village,HIL,Hillcrest,2012,915
+087,High Park-Swansea,HP,High Park,2012,953
+021,Humber Summit,HS,Humber Summit,2012,604
+001,West Humber-Clairville,HW,Humberwood,2012,485
+089,Runnymede-Bloor West Village,JD,Jane/Dundas,2012,1752
+070,South Riverdale,JO,Jones,2012,535
+025,Glenfield-Jane Heights,JS,Jane/Sheppard,2012,1034
+125,Ionview,KE,Kennedy/Eglinton,2012,1430
+019,Long Branch,LB,Long Branch,2012,652
+056,Leaside-Bennington,LE,Leaside,2012,1065
+103,Lawrence Park South,LO,Locke,2012,1597
+078,Kensington-Chinatown,LS,Lillian H. Smith,2012,3194
+062,East End-Danforth,MA,Main Street,2012,866
+146,Malvern East,MAL,Malvern,2012,2534
+107,Oakwood-Vaughan,MAS,Maria A. Shchuka,2012,1806
+126,Dorset Park,MCG,McGregor Park,2012,1321
+115,Mount Dennis,MD,Mount Dennis,2012,3
+160,Mimico-Queensway,MI,Mimico Centennial,2012,834
+099,Mount Pleasant East,MP,Mount Pleasant,2012,510
+119,Wexford-Maryvale,MRV,Maryvale,2012,994
+136,West Hill,MS,Morningside,2012,1146
+100,Yonge-Eglinton,ND,Northern District,2012,2755
+001,West Humber-Clairville,NE,Northern Elms,2012,446
+018,New Toronto,NT,New Toronto,2012,583
+107,Oakwood-Vaughan,OV,Oakwood Village Library and Arts Centre,2012,600
+069,Blake-Jones,PA,Pape/Danforth,2012,1397
+171,Junction-Wallace Emerson,PE,Perth/Dupont,2012,185
+085,South Parkdale,PK,Parkdale,2012,1994
+073,Moss Park,PL,Parliament Street,2012,1649
+095,Annex,PM,Palmerston,2012,754
+133,Centennial Scarborough,PU,Port Union,2012,819
+046,Pleasant View,PV,Pleasant View,2012,713
+070,South Riverdale,QS,Queen/Saulter,2012,417
+068,North Riverdale,RD,Riverdale,2012,986
+007,Willowridge-Martingrove-Richview,RI,Richview,2012,3082
+088,High Park North,RN,Runnymede,2012,1782
+004,Rexdale-Kipling,RX,Rexdale,2012,421
+078,Kensington-Chinatown,SA,Sanderson,2012,1419
+091,Weston-Pellam Park,SI,St. Clair/Silverthorn,2012,306
+074,North St. James Town,SJ,St. James Town,2012,1828
+166,St Lawrence-East Bayfront-The Islands,SL,St. Lawrence,2012,915
+095,Annex,SP,Spadina Road,2012,754
+116,Steeles,ST,Steeles,2012,902
+087,High Park-Swansea,SW,Swansea Memorial,2012,88
+059,Danforth Village - East York,SWS,S. Walter Stewart,2012,1360
+122,Birchcliffe-Cliffside,TA,Taylor Memorial,2012,443
+055,Thorncliffe Park,TH,Thorncliffe,2012,1555
+058,Old East York,TOD,Todmorden Room,2012,157
+098,Rosedale-Moore Park,TRL,Toronto Reference Library,2012,8682
+043,Victoria Village,VV,Victoria Village,2012,427
+113,Weston,WE,Weston,2012,1092
+022,Humbermede,WP,Woodview Park,2012,515
+129,Agincourt North,WS,Woodside Square,2012,2013
+096,Casa Loma,WY,Wychwood,2012,845
+095,Annex,YO,Yorkville,2012,1042
+025,Glenfield-Jane Heights,YW,York Woods,2012,3008
+002,Mount Olive-Silverstone-Jamestown,AB,Albion,2013,4483
+120,Clairlea-Birchmount,ACD,Albert Campbell,2013,1770
+020,Alderwood,AD,Alderwood,2013,504
+118,Tam O'Shanter-Sullivan,AG,Agincourt,2013,3586
+039,Bedford Park-Nortown,AH,Armour Heights,2013,501
+090,Junction Area,AN,Annette Street,2013,814
+030,Brookhaven-Amesbury,AP,Amesbury Park,2013,911
+150,Fenside-Parkwoods,BB,Brookbanks,2013,807
+154,Oakdale-Beverley Heights,BC,Black Creek,2013,1063
+157,Bendale South,BD,Bendale,2013,823
+063,The Beaches,BE,Beaches,2013,1481
+032,Englemount-Lawrence,BF,Barbara Frum,2013,1848
+083,Dufferin Grove,BL,Bloor/Gladstone,2013,2698
+015,Kingsway South,BR,Brentwood,2013,2280
+147,L'Amoreaux West,BRW,Bridlewood,2013,2099
+146,Malvern East,BUR,Burrows Hall,2013,967
+123,Cliffcrest,CC,Cliffcrest,2013,789
+035,Westminster-Branson,CE,Centennial,2013,1836
+141,Golfdale-Cedarbrae-Woburn,CED,Cedarbrae,2013,4395
+170,Yonge-Bay Corridor,CH,City Hall,2013,1992
+037,Willowdale West,CL,North York Central Library,2013,11924
+080,Palmerston-Little Italy,CS,College/Shaw,2013,950
+064,Woodbine Corridor,DA,Danforth/Coxwell,2013,1110
+042,Banbury-Don Mills,DM,Don Mills,2013,1898
+155,Downsview,DO,Downsview,2013,1920
+098,Rosedale-Moore Park,DP,Deer Park,2013,1844
+054,O'Connor-Parkview,DR,Dawes Road,2013,1326
+094,Wychwood,DT,Davenport,2013,240
+092,Corso Italia-Davenport,DU,Dufferin/St. Clair,2013,954
+158,Islington,EA,Eatonville,2013,2285
+011,Eringate-Centennial-West Deane,EB,Elmbrook Park,2013,354
+110,Keelesdale-Eglinton West,EG,Evelyn Gregory,2013,490
+052,Bayview Village,EN,Ethennonnhawahstihnen',2013,2343
+120,Clairlea-Birchmount,ES,Eglinton Square,2013,1491
+102,Forest Hill North,FH,Forest Hill,2013,890
+044,Flemingdon Park,FP,Flemingdon Park,2013,1399
+047,Don Valley Village,FV,Fairview,2013,26
+065,Greenwood-Coxwell,GE,Gerrard/Ashdale,2013,539
+130,Milliken,GHP,Goldhawk Park,2013,818
+140,Guildwood,GW,Guildwood,2013,336
+016,Stonegate-Queensway,HB,Humber Bay,2013,634
+134,Highland Creek,HC,Highland Creek,2013,785
+048,Hillcrest Village,HIL,Hillcrest,2013,1350
+087,High Park-Swansea,HP,High Park,2013,1158
+021,Humber Summit,HS,Humber Summit,2013,743
+001,West Humber-Clairville,HW,Humberwood,2013,482
+089,Runnymede-Bloor West Village,JD,Jane/Dundas,2013,2561
+070,South Riverdale,JO,Jones,2013,633
+025,Glenfield-Jane Heights,JS,Jane/Sheppard,2013,1330
+125,Ionview,KE,Kennedy/Eglinton,2013,1539
+019,Long Branch,LB,Long Branch,2013,660
+056,Leaside-Bennington,LE,Leaside,2013,1103
+103,Lawrence Park South,LO,Locke,2013,1547
+078,Kensington-Chinatown,LS,Lillian H. Smith,2013,3254
+062,East End-Danforth,MA,Main Street,2013,836
+146,Malvern East,MAL,Malvern,2013,2661
+107,Oakwood-Vaughan,MAS,Maria A. Shchuka,2013,1791
+126,Dorset Park,MCG,McGregor Park,2013,1346
+115,Mount Dennis,MD,Mount Dennis,2013,995
+160,Mimico-Queensway,MI,Mimico Centennial,2013,816
+099,Mount Pleasant East,MP,Mount Pleasant,2013,591
+119,Wexford-Maryvale,MRV,Maryvale,2013,1102
+136,West Hill,MS,Morningside,2013,1038
+100,Yonge-Eglinton,ND,Northern District,2013,2665
+001,West Humber-Clairville,NE,Northern Elms,2013,414
+018,New Toronto,NT,New Toronto,2013,568
+107,Oakwood-Vaughan,OV,Oakwood Village Library and Arts Centre,2013,604
+069,Blake-Jones,PA,Pape/Danforth,2013,1538
+171,Junction-Wallace Emerson,PE,Perth/Dupont,2013,234
+085,South Parkdale,PK,Parkdale,2013,1883
+073,Moss Park,PL,Parliament Street,2013,1632
+095,Annex,PM,Palmerston,2013,765
+133,Centennial Scarborough,PU,Port Union,2013,850
+046,Pleasant View,PV,Pleasant View,2013,1192
+070,South Riverdale,QS,Queen/Saulter,2013,424
+068,North Riverdale,RD,Riverdale,2013,1014
+007,Willowridge-Martingrove-Richview,RI,Richview,2013,2608
+088,High Park North,RN,Runnymede,2013,1727
+004,Rexdale-Kipling,RX,Rexdale,2013,422
+078,Kensington-Chinatown,SA,Sanderson,2013,1492
+091,Weston-Pellam Park,SI,St. Clair/Silverthorn,2013,290
+074,North St. James Town,SJ,St. James Town,2013,1695
+166,St Lawrence-East Bayfront-The Islands,SL,St. Lawrence,2013,1141
+095,Annex,SP,Spadina Road,2013,691
+116,Steeles,ST,Steeles,2013,1058
+087,High Park-Swansea,SW,Swansea Memorial,2013,67
+059,Danforth Village - East York,SWS,S. Walter Stewart,2013,1293
+122,Birchcliffe-Cliffside,TA,Taylor Memorial,2013,317
+055,Thorncliffe Park,TH,Thorncliffe,2013,2090
+058,Old East York,TOD,Todmorden Room,2013,192
+098,Rosedale-Moore Park,TRL,Toronto Reference Library,2013,9618
+043,Victoria Village,VV,Victoria Village,2013,429
+113,Weston,WE,Weston,2013,873
+022,Humbermede,WP,Woodview Park,2013,647
+129,Agincourt North,WS,Woodside Square,2013,2229
+096,Casa Loma,WY,Wychwood,2013,1000
+095,Annex,YO,Yorkville,2013,1052
+025,Glenfield-Jane Heights,YW,York Woods,2013,2280
+002,Mount Olive-Silverstone-Jamestown,AB,Albion,2014,3810
+120,Clairlea-Birchmount,ACD,Albert Campbell,2014,1782
+020,Alderwood,AD,Alderwood,2014,543
+118,Tam O'Shanter-Sullivan,AG,Agincourt,2014,3171
+039,Bedford Park-Nortown,AH,Armour Heights,2014,608
+090,Junction Area,AN,Annette Street,2014,878
+030,Brookhaven-Amesbury,AP,Amesbury Park,2014,1020
+150,Fenside-Parkwoods,BB,Brookbanks,2014,705
+154,Oakdale-Beverley Heights,BC,Black Creek,2014,1206
+157,Bendale South,BD,Bendale,2014,838
+063,The Beaches,BE,Beaches,2014,1523
+032,Englemount-Lawrence,BF,Barbara Frum,2014,2053
+083,Dufferin Grove,BL,Bloor/Gladstone,2014,3109
+015,Kingsway South,BR,Brentwood,2014,2032
+147,L'Amoreaux West,BRW,Bridlewood,2014,2016
+146,Malvern East,BUR,Burrows Hall,2014,825
+123,Cliffcrest,CC,Cliffcrest,2014,765
+035,Westminster-Branson,CE,Centennial,2014,1604
+141,Golfdale-Cedarbrae-Woburn,CED,Cedarbrae,2014,3958
+170,Yonge-Bay Corridor,CH,City Hall,2014,2142
+037,Willowdale West,CL,North York Central Library,2014,12262
+080,Palmerston-Little Italy,CS,College/Shaw,2014,1082
+064,Woodbine Corridor,DA,Danforth/Coxwell,2014,1109
+042,Banbury-Don Mills,DM,Don Mills,2014,1897
+155,Downsview,DO,Downsview,2014,1861
+098,Rosedale-Moore Park,DP,Deer Park,2014,1824
+054,O'Connor-Parkview,DR,Dawes Road,2014,1213
+094,Wychwood,DT,Davenport,2014,312
+092,Corso Italia-Davenport,DU,Dufferin/St. Clair,2014,889
+158,Islington,EA,Eatonville,2014,2752
+011,Eringate-Centennial-West Deane,EB,Elmbrook Park,2014,410
+110,Keelesdale-Eglinton West,EG,Evelyn Gregory,2014,646
+052,Bayview Village,EN,Ethennonnhawahstihnen',2014,2096
+120,Clairlea-Birchmount,ES,Eglinton Square,2014,1523
+102,Forest Hill North,FH,Forest Hill,2014,972
+165,Harbourfront-CityPlace,FO,Fort York,2014,3651
+044,Flemingdon Park,FP,Flemingdon Park,2014,1002
+047,Don Valley Village,FV,Fairview,2014,5568
+065,Greenwood-Coxwell,GE,Gerrard/Ashdale,2014,579
+130,Milliken,GHP,Goldhawk Park,2014,862
+140,Guildwood,GW,Guildwood,2014,403
+016,Stonegate-Queensway,HB,Humber Bay,2014,614
+134,Highland Creek,HC,Highland Creek,2014,796
+048,Hillcrest Village,HIL,Hillcrest,2014,912
+087,High Park-Swansea,HP,High Park,2014,1224
+021,Humber Summit,HS,Humber Summit,2014,493
+001,West Humber-Clairville,HW,Humberwood,2014,468
+089,Runnymede-Bloor West Village,JD,Jane/Dundas,2014,1488
+070,South Riverdale,JO,Jones,2014,680
+025,Glenfield-Jane Heights,JS,Jane/Sheppard,2014,1099
+125,Ionview,KE,Kennedy/Eglinton,2014,1323
+019,Long Branch,LB,Long Branch,2014,783
+056,Leaside-Bennington,LE,Leaside,2014,1147
+103,Lawrence Park South,LO,Locke,2014,1577
+078,Kensington-Chinatown,LS,Lillian H. Smith,2014,3243
+062,East End-Danforth,MA,Main Street,2014,852
+146,Malvern East,MAL,Malvern,2014,2728
+107,Oakwood-Vaughan,MAS,Maria A. Shchuka,2014,1794
+126,Dorset Park,MCG,McGregor Park,2014,1351
+115,Mount Dennis,MD,Mount Dennis,2014,798
+160,Mimico-Queensway,MI,Mimico Centennial,2014,834
+099,Mount Pleasant East,MP,Mount Pleasant,2014,556
+119,Wexford-Maryvale,MRV,Maryvale,2014,1149
+136,West Hill,MS,Morningside,2014,1152
+100,Yonge-Eglinton,ND,Northern District,2014,2553
+001,West Humber-Clairville,NE,Northern Elms,2014,383
+018,New Toronto,NT,New Toronto,2014,527
+107,Oakwood-Vaughan,OV,Oakwood Village Library and Arts Centre,2014,606
+069,Blake-Jones,PA,Pape/Danforth,2014,1674
+171,Junction-Wallace Emerson,PE,Perth/Dupont,2014,282
+085,South Parkdale,PK,Parkdale,2014,2014
+073,Moss Park,PL,Parliament Street,2014,1561
+095,Annex,PM,Palmerston,2014,816
+133,Centennial Scarborough,PU,Port Union,2014,842
+046,Pleasant View,PV,Pleasant View,2014,701
+070,South Riverdale,QS,Queen/Saulter,2014,473
+068,North Riverdale,RD,Riverdale,2014,962
+007,Willowridge-Martingrove-Richview,RI,Richview,2014,2549
+088,High Park North,RN,Runnymede,2014,1823
+004,Rexdale-Kipling,RX,Rexdale,2014,406
+078,Kensington-Chinatown,SA,Sanderson,2014,1254
+091,Weston-Pellam Park,SI,St. Clair/Silverthorn,2014,319
+074,North St. James Town,SJ,St. James Town,2014,1594
+166,St Lawrence-East Bayfront-The Islands,SL,St. Lawrence,2014,1275
+095,Annex,SP,Spadina Road,2014,638
+116,Steeles,ST,Steeles,2014,826
+087,High Park-Swansea,SW,Swansea Memorial,2014,81
+059,Danforth Village - East York,SWS,S. Walter Stewart,2014,1415
+122,Birchcliffe-Cliffside,TA,Taylor Memorial,2014,453
+055,Thorncliffe Park,TH,Thorncliffe,2014,1612
+058,Old East York,TOD,Todmorden Room,2014,197
+098,Rosedale-Moore Park,TRL,Toronto Reference Library,2014,11308
+043,Victoria Village,VV,Victoria Village,2014,394
+113,Weston,WE,Weston,2014,809
+022,Humbermede,WP,Woodview Park,2014,495
+129,Agincourt North,WS,Woodside Square,2014,2149
+096,Casa Loma,WY,Wychwood,2014,943
+095,Annex,YO,Yorkville,2014,1011
+025,Glenfield-Jane Heights,YW,York Woods,2014,2874
+002,Mount Olive-Silverstone-Jamestown,AB,Albion,2015,4272
+120,Clairlea-Birchmount,ACD,Albert Campbell,2015,1448
+020,Alderwood,AD,Alderwood,2015,519
+118,Tam O'Shanter-Sullivan,AG,Agincourt,2015,2919
+039,Bedford Park-Nortown,AH,Armour Heights,2015,545
+090,Junction Area,AN,Annette Street,2015,915
+030,Brookhaven-Amesbury,AP,Amesbury Park,2015,709
+150,Fenside-Parkwoods,BB,Brookbanks,2015,753
+154,Oakdale-Beverley Heights,BC,Black Creek,2015,1109
+157,Bendale South,BD,Bendale,2015,707
+063,The Beaches,BE,Beaches,2015,1546
+032,Englemount-Lawrence,BF,Barbara Frum,2015,2119
+083,Dufferin Grove,BL,Bloor/Gladstone,2015,3111
+015,Kingsway South,BR,Brentwood,2015,1725
+147,L'Amoreaux West,BRW,Bridlewood,2015,1729
+146,Malvern East,BUR,Burrows Hall,2015,766
+123,Cliffcrest,CC,Cliffcrest,2015,659
+035,Westminster-Branson,CE,Centennial,2015,1756
+141,Golfdale-Cedarbrae-Woburn,CED,Cedarbrae,2015,3824
+170,Yonge-Bay Corridor,CH,City Hall,2015,1934
+037,Willowdale West,CL,North York Central Library,2015,13064
+080,Palmerston-Little Italy,CS,College/Shaw,2015,949
+064,Woodbine Corridor,DA,Danforth/Coxwell,2015,1080
+042,Banbury-Don Mills,DM,Don Mills,2015,2152
+155,Downsview,DO,Downsview,2015,1669
+098,Rosedale-Moore Park,DP,Deer Park,2015,1790
+054,O'Connor-Parkview,DR,Dawes Road,2015,1305
+094,Wychwood,DT,Davenport,2015,242
+092,Corso Italia-Davenport,DU,Dufferin/St. Clair,2015,814
+158,Islington,EA,Eatonville,2015,2693
+011,Eringate-Centennial-West Deane,EB,Elmbrook Park,2015,398
+110,Keelesdale-Eglinton West,EG,Evelyn Gregory,2015,524
+052,Bayview Village,EN,Ethennonnhawahstihnen',2015,1854
+120,Clairlea-Birchmount,ES,Eglinton Square,2015,1398
+102,Forest Hill North,FH,Forest Hill,2015,1004
+165,Harbourfront-CityPlace,FO,Fort York,2015,3732
+044,Flemingdon Park,FP,Flemingdon Park,2015,1058
+047,Don Valley Village,FV,Fairview,2015,5792
+065,Greenwood-Coxwell,GE,Gerrard/Ashdale,2015,511
+130,Milliken,GHP,Goldhawk Park,2015,777
+140,Guildwood,GW,Guildwood,2015,389
+016,Stonegate-Queensway,HB,Humber Bay,2015,552
+134,Highland Creek,HC,Highland Creek,2015,702
+048,Hillcrest Village,HIL,Hillcrest,2015,763
+087,High Park-Swansea,HP,High Park,2015,1200
+021,Humber Summit,HS,Humber Summit,2015,457
+001,West Humber-Clairville,HW,Humberwood,2015,510
+089,Runnymede-Bloor West Village,JD,Jane/Dundas,2015,1202
+070,South Riverdale,JO,Jones,2015,659
+025,Glenfield-Jane Heights,JS,Jane/Sheppard,2015,1065
+125,Ionview,KE,Kennedy/Eglinton,2015,1391
+019,Long Branch,LB,Long Branch,2015,663
+056,Leaside-Bennington,LE,Leaside,2015,1135
+103,Lawrence Park South,LO,Locke,2015,1526
+078,Kensington-Chinatown,LS,Lillian H. Smith,2015,3219
+062,East End-Danforth,MA,Main Street,2015,894
+146,Malvern East,MAL,Malvern,2015,2219
+107,Oakwood-Vaughan,MAS,Maria A. Shchuka,2015,1790
+126,Dorset Park,MCG,McGregor Park,2015,1287
+115,Mount Dennis,MD,Mount Dennis,2015,728
+160,Mimico-Queensway,MI,Mimico Centennial,2015,846
+099,Mount Pleasant East,MP,Mount Pleasant,2015,546
+119,Wexford-Maryvale,MRV,Maryvale,2015,1181
+136,West Hill,MS,Morningside,2015,1005
+100,Yonge-Eglinton,ND,Northern District,2015,2466
+001,West Humber-Clairville,NE,Northern Elms,2015,354
+018,New Toronto,NT,New Toronto,2015,517
+107,Oakwood-Vaughan,OV,Oakwood Village Library and Arts Centre,2015,509
+069,Blake-Jones,PA,Pape/Danforth,2015,1449
+171,Junction-Wallace Emerson,PE,Perth/Dupont,2015,245
+085,South Parkdale,PK,Parkdale,2015,1960
+073,Moss Park,PL,Parliament Street,2015,1564
+095,Annex,PM,Palmerston,2015,813
+133,Centennial Scarborough,PU,Port Union,2015,843
+046,Pleasant View,PV,Pleasant View,2015,482
+070,South Riverdale,QS,Queen/Saulter,2015,437
+068,North Riverdale,RD,Riverdale,2015,881
+007,Willowridge-Martingrove-Richview,RI,Richview,2015,2841
+088,High Park North,RN,Runnymede,2015,1833
+004,Rexdale-Kipling,RX,Rexdale,2015,400
+078,Kensington-Chinatown,SA,Sanderson,2015,1073
+156,Bendale -Glen Andrew,SC,Scarborough Civic Centre,2015,2242
+091,Weston-Pellam Park,SI,St. Clair/Silverthorn,2015,284
+074,North St. James Town,SJ,St. James Town,2015,1427
+166,St Lawrence-East Bayfront-The Islands,SL,St. Lawrence,2015,1278
+095,Annex,SP,Spadina Road,2015,737
+116,Steeles,ST,Steeles,2015,1052
+087,High Park-Swansea,SW,Swansea Memorial,2015,85
+059,Danforth Village - East York,SWS,S. Walter Stewart,2015,1239
+122,Birchcliffe-Cliffside,TA,Taylor Memorial,2015,421
+055,Thorncliffe Park,TH,Thorncliffe,2015,1507
+058,Old East York,TOD,Todmorden Room,2015,170
+098,Rosedale-Moore Park,TRL,Toronto Reference Library,2015,11617
+043,Victoria Village,VV,Victoria Village,2015,465
+113,Weston,WE,Weston,2015,979
+022,Humbermede,WP,Woodview Park,2015,426
+129,Agincourt North,WS,Woodside Square,2015,2005
+096,Casa Loma,WY,Wychwood,2015,1032
+095,Annex,YO,Yorkville,2015,1012
+025,Glenfield-Jane Heights,YW,York Woods,2015,2452
+002,Mount Olive-Silverstone-Jamestown,AB,Albion,2016,4474
+120,Clairlea-Birchmount,ACD,Albert Campbell,2016,1592
+020,Alderwood,AD,Alderwood,2016,526
+118,Tam O'Shanter-Sullivan,AG,Agincourt,2016,2318
+039,Bedford Park-Nortown,AH,Armour Heights,2016,567
+090,Junction Area,AN,Annette Street,2016,1058
+030,Brookhaven-Amesbury,AP,Amesbury Park,2016,796
+150,Fenside-Parkwoods,BB,Brookbanks,2016,770
+154,Oakdale-Beverley Heights,BC,Black Creek,2016,1082
+157,Bendale South,BD,Bendale,2016,686
+063,The Beaches,BE,Beaches,2016,1634
+032,Englemount-Lawrence,BF,Barbara Frum,2016,2022
+083,Dufferin Grove,BL,Bloor/Gladstone,2016,3076
+015,Kingsway South,BR,Brentwood,2016,1950
+147,L'Amoreaux West,BRW,Bridlewood,2016,1965
+146,Malvern East,BUR,Burrows Hall,2016,802
+123,Cliffcrest,CC,Cliffcrest,2016,789
+035,Westminster-Branson,CE,Centennial,2016,1614
+141,Golfdale-Cedarbrae-Woburn,CED,Cedarbrae,2016,3861
+170,Yonge-Bay Corridor,CH,City Hall,2016,2655
+037,Willowdale West,CL,North York Central Library,2016,12204
+080,Palmerston-Little Italy,CS,College/Shaw,2016,1037
+064,Woodbine Corridor,DA,Danforth/Coxwell,2016,1078
+042,Banbury-Don Mills,DM,Don Mills,2016,2062
+155,Downsview,DO,Downsview,2016,1549
+098,Rosedale-Moore Park,DP,Deer Park,2016,1798
+054,O'Connor-Parkview,DR,Dawes Road,2016,1269
+094,Wychwood,DT,Davenport,2016,280
+092,Corso Italia-Davenport,DU,Dufferin/St. Clair,2016,834
+158,Islington,EA,Eatonville,2016,2849
+011,Eringate-Centennial-West Deane,EB,Elmbrook Park,2016,411
+110,Keelesdale-Eglinton West,EG,Evelyn Gregory,2016,548
+052,Bayview Village,EN,Ethennonnhawahstihnen',2016,1924
+120,Clairlea-Birchmount,ES,Eglinton Square,2016,719
+102,Forest Hill North,FH,Forest Hill,2016,866
+165,Harbourfront-CityPlace,FO,Fort York,2016,3485
+044,Flemingdon Park,FP,Flemingdon Park,2016,1065
+047,Don Valley Village,FV,Fairview,2016,5805
+065,Greenwood-Coxwell,GE,Gerrard/Ashdale,2016,634
+130,Milliken,GHP,Goldhawk Park,2016,818
+140,Guildwood,GW,Guildwood,2016,357
+016,Stonegate-Queensway,HB,Humber Bay,2016,691
+134,Highland Creek,HC,Highland Creek,2016,645
+048,Hillcrest Village,HIL,Hillcrest,2016,777
+087,High Park-Swansea,HP,High Park,2016,1275
+021,Humber Summit,HS,Humber Summit,2016,449
+001,West Humber-Clairville,HW,Humberwood,2016,611
+089,Runnymede-Bloor West Village,JD,Jane/Dundas,2016,1211
+070,South Riverdale,JO,Jones,2016,793
+025,Glenfield-Jane Heights,JS,Jane/Sheppard,2016,1042
+125,Ionview,KE,Kennedy/Eglinton,2016,1337
+019,Long Branch,LB,Long Branch,2016,763
+056,Leaside-Bennington,LE,Leaside,2016,1185
+103,Lawrence Park South,LO,Locke,2016,1503
+078,Kensington-Chinatown,LS,Lillian H. Smith,2016,3222
+062,East End-Danforth,MA,Main Street,2016,960
+146,Malvern East,MAL,Malvern,2016,2404
+107,Oakwood-Vaughan,MAS,Maria A. Shchuka,2016,1818
+126,Dorset Park,MCG,McGregor Park,2016,1259
+115,Mount Dennis,MD,Mount Dennis,2016,804
+160,Mimico-Queensway,MI,Mimico Centennial,2016,898
+099,Mount Pleasant East,MP,Mount Pleasant,2016,656
+119,Wexford-Maryvale,MRV,Maryvale,2016,1266
+136,West Hill,MS,Morningside,2016,1168
+100,Yonge-Eglinton,ND,Northern District,2016,3050
+001,West Humber-Clairville,NE,Northern Elms,2016,386
+018,New Toronto,NT,New Toronto,2016,624
+107,Oakwood-Vaughan,OV,Oakwood Village Library and Arts Centre,2016,571
+069,Blake-Jones,PA,Pape/Danforth,2016,1723
+171,Junction-Wallace Emerson,PE,Perth/Dupont,2016,290
+085,South Parkdale,PK,Parkdale,2016,1909
+073,Moss Park,PL,Parliament Street,2016,1540
+095,Annex,PM,Palmerston,2016,833
+133,Centennial Scarborough,PU,Port Union,2016,737
+046,Pleasant View,PV,Pleasant View,2016,561
+070,South Riverdale,QS,Queen/Saulter,2016,498
+068,North Riverdale,RD,Riverdale,2016,976
+007,Willowridge-Martingrove-Richview,RI,Richview,2016,2872
+088,High Park North,RN,Runnymede,2016,1867
+004,Rexdale-Kipling,RX,Rexdale,2016,462
+078,Kensington-Chinatown,SA,Sanderson,2016,1169
+156,Bendale -Glen Andrew,SC,Scarborough Civic Centre,2016,2173
+091,Weston-Pellam Park,SI,St. Clair/Silverthorn,2016,306
+074,North St. James Town,SJ,St. James Town,2016,1588
+166,St Lawrence-East Bayfront-The Islands,SL,St. Lawrence,2016,1415
+095,Annex,SP,Spadina Road,2016,720
+116,Steeles,ST,Steeles,2016,1004
+087,High Park-Swansea,SW,Swansea Memorial,2016,92
+059,Danforth Village - East York,SWS,S. Walter Stewart,2016,1269
+122,Birchcliffe-Cliffside,TA,Taylor Memorial,2016,401
+055,Thorncliffe Park,TH,Thorncliffe,2016,1627
+058,Old East York,TOD,Todmorden Room,2016,190
+098,Rosedale-Moore Park,TRL,Toronto Reference Library,2016,13403
+043,Victoria Village,VV,Victoria Village,2016,541
+113,Weston,WE,Weston,2016,1027
+022,Humbermede,WP,Woodview Park,2016,480
+129,Agincourt North,WS,Woodside Square,2016,2000
+096,Casa Loma,WY,Wychwood,2016,1164
+095,Annex,YO,Yorkville,2016,1003
+025,Glenfield-Jane Heights,YW,York Woods,2016,2379
+002,Mount Olive-Silverstone-Jamestown,AB,Albion,2017,6889
+120,Clairlea-Birchmount,ACD,Albert Campbell,2017,1625
+020,Alderwood,AD,Alderwood,2017,545
+118,Tam O'Shanter-Sullivan,AG,Agincourt,2017,2538
+039,Bedford Park-Nortown,AH,Armour Heights,2017,645
+090,Junction Area,AN,Annette Street,2017,1234
+030,Brookhaven-Amesbury,AP,Amesbury Park,2017,485
+150,Fenside-Parkwoods,BB,Brookbanks,2017,792
+154,Oakdale-Beverley Heights,BC,Black Creek,2017,1210
+157,Bendale South,BD,Bendale,2017,709
+063,The Beaches,BE,Beaches,2017,1533
+032,Englemount-Lawrence,BF,Barbara Frum,2017,2256
+083,Dufferin Grove,BL,Bloor/Gladstone,2017,3267
+015,Kingsway South,BR,Brentwood,2017,2237
+147,L'Amoreaux West,BRW,Bridlewood,2017,2045
+146,Malvern East,BUR,Burrows Hall,2017,735
+123,Cliffcrest,CC,Cliffcrest,2017,725
+035,Westminster-Branson,CE,Centennial,2017,2092
+141,Golfdale-Cedarbrae-Woburn,CED,Cedarbrae,2017,3831
+170,Yonge-Bay Corridor,CH,City Hall,2017,2504
+037,Willowdale West,CL,North York Central Library,2017,4960
+080,Palmerston-Little Italy,CS,College/Shaw,2017,1115
+064,Woodbine Corridor,DA,Danforth/Coxwell,2017,1174
+042,Banbury-Don Mills,DM,Don Mills,2017,1909
+155,Downsview,DO,Downsview,2017,1927
+098,Rosedale-Moore Park,DP,Deer Park,2017,1850
+054,O'Connor-Parkview,DR,Dawes Road,2017,1334
+094,Wychwood,DT,Davenport,2017,316
+092,Corso Italia-Davenport,DU,Dufferin/St. Clair,2017,808
+158,Islington,EA,Eatonville,2017,2754
+011,Eringate-Centennial-West Deane,EB,Elmbrook Park,2017,410
+110,Keelesdale-Eglinton West,EG,Evelyn Gregory,2017,573
+052,Bayview Village,EN,Ethennonnhawahstihnen',2017,2628
+120,Clairlea-Birchmount,ES,Eglinton Square,2017,1366
+102,Forest Hill North,FH,Forest Hill,2017,951
+165,Harbourfront-CityPlace,FO,Fort York,2017,3661
+044,Flemingdon Park,FP,Flemingdon Park,2017,991
+047,Don Valley Village,FV,Fairview,2017,6056
+065,Greenwood-Coxwell,GE,Gerrard/Ashdale,2017,735
+130,Milliken,GHP,Goldhawk Park,2017,856
+140,Guildwood,GW,Guildwood,2017,348
+016,Stonegate-Queensway,HB,Humber Bay,2017,655
+134,Highland Creek,HC,Highland Creek,2017,757
+048,Hillcrest Village,HIL,Hillcrest,2017,938
+087,High Park-Swansea,HP,High Park,2017,1285
+021,Humber Summit,HS,Humber Summit,2017,289
+001,West Humber-Clairville,HW,Humberwood,2017,565
+089,Runnymede-Bloor West Village,JD,Jane/Dundas,2017,1359
+070,South Riverdale,JO,Jones,2017,674
+025,Glenfield-Jane Heights,JS,Jane/Sheppard,2017,1121
+125,Ionview,KE,Kennedy/Eglinton,2017,1547
+019,Long Branch,LB,Long Branch,2017,579
+056,Leaside-Bennington,LE,Leaside,2017,1274
+103,Lawrence Park South,LO,Locke,2017,1849
+078,Kensington-Chinatown,LS,Lillian H. Smith,2017,3198
+062,East End-Danforth,MA,Main Street,2017,999
+146,Malvern East,MAL,Malvern,2017,2516
+107,Oakwood-Vaughan,MAS,Maria A. Shchuka,2017,1599
+126,Dorset Park,MCG,McGregor Park,2017,1368
+115,Mount Dennis,MD,Mount Dennis,2017,821
+160,Mimico-Queensway,MI,Mimico Centennial,2017,954
+099,Mount Pleasant East,MP,Mount Pleasant,2017,589
+119,Wexford-Maryvale,MRV,Maryvale,2017,1158
+136,West Hill,MS,Morningside,2017,1059
+100,Yonge-Eglinton,ND,Northern District,2017,3384
+001,West Humber-Clairville,NE,Northern Elms,2017,457
+018,New Toronto,NT,New Toronto,2017,597
+107,Oakwood-Vaughan,OV,Oakwood Village Library and Arts Centre,2017,613
+069,Blake-Jones,PA,Pape/Danforth,2017,1645
+171,Junction-Wallace Emerson,PE,Perth/Dupont,2017,376
+085,South Parkdale,PK,Parkdale,2017,2129
+073,Moss Park,PL,Parliament Street,2017,1680
+095,Annex,PM,Palmerston,2017,816
+133,Centennial Scarborough,PU,Port Union,2017,849
+046,Pleasant View,PV,Pleasant View,2017,569
+070,South Riverdale,QS,Queen/Saulter,2017,566
+068,North Riverdale,RD,Riverdale,2017,914
+007,Willowridge-Martingrove-Richview,RI,Richview,2017,2833
+088,High Park North,RN,Runnymede,2017,1296
+004,Rexdale-Kipling,RX,Rexdale,2017,427
+078,Kensington-Chinatown,SA,Sanderson,2017,1247
+156,Bendale -Glen Andrew,SC,Scarborough Civic Centre,2017,2449
+091,Weston-Pellam Park,SI,St. Clair/Silverthorn,2017,287
+074,North St. James Town,SJ,St. James Town,2017,1659
+166,St Lawrence-East Bayfront-The Islands,SL,St. Lawrence,2017,1769
+095,Annex,SP,Spadina Road,2017,743
+116,Steeles,ST,Steeles,2017,897
+087,High Park-Swansea,SW,Swansea Memorial,2017,203
+059,Danforth Village - East York,SWS,S. Walter Stewart,2017,1339
+122,Birchcliffe-Cliffside,TA,Taylor Memorial,2017,343
+055,Thorncliffe Park,TH,Thorncliffe,2017,1599
+058,Old East York,TOD,Todmorden Room,2017,209
+098,Rosedale-Moore Park,TRL,Toronto Reference Library,2017,13511
+043,Victoria Village,VV,Victoria Village,2017,471
+113,Weston,WE,Weston,2017,1067
+022,Humbermede,WP,Woodview Park,2017,506
+129,Agincourt North,WS,Woodside Square,2017,2046
+096,Casa Loma,WY,Wychwood,2017,1101
+095,Annex,YO,Yorkville,2017,1215
+025,Glenfield-Jane Heights,YW,York Woods,2017,2952
+002,Mount Olive-Silverstone-Jamestown,AB,Albion,2018,7788
+120,Clairlea-Birchmount,ACD,Albert Campbell,2018,1789
+020,Alderwood,AD,Alderwood,2018,733
+118,Tam O'Shanter-Sullivan,AG,Agincourt,2018,3658
+039,Bedford Park-Nortown,AH,Armour Heights,2018,859
+090,Junction Area,AN,Annette Street,2018,1349
+030,Brookhaven-Amesbury,AP,Amesbury Park,2018,1045
+150,Fenside-Parkwoods,BB,Brookbanks,2018,1233
+154,Oakdale-Beverley Heights,BC,Black Creek,2018,1688
+157,Bendale South,BD,Bendale,2018,1055
+063,The Beaches,BE,Beaches,2018,1810
+032,Englemount-Lawrence,BF,Barbara Frum,2018,2884
+083,Dufferin Grove,BL,Bloor/Gladstone,2018,3787
+015,Kingsway South,BR,Brentwood,2018,2483
+147,L'Amoreaux West,BRW,Bridlewood,2018,2908
+146,Malvern East,BUR,Burrows Hall,2018,1056
+123,Cliffcrest,CC,Cliffcrest,2018,963
+035,Westminster-Branson,CE,Centennial,2018,2296
+141,Golfdale-Cedarbrae-Woburn,CED,Cedarbrae,2018,4913
+170,Yonge-Bay Corridor,CH,City Hall,2018,3182
+037,Willowdale West,CL,North York Central Library,2018,12469
+080,Palmerston-Little Italy,CS,College/Shaw,2018,1203
+064,Woodbine Corridor,DA,Danforth/Coxwell,2018,1314
+042,Banbury-Don Mills,DM,Don Mills,2018,2310
+155,Downsview,DO,Downsview,2018,2468
+098,Rosedale-Moore Park,DP,Deer Park,2018,2462
+054,O'Connor-Parkview,DR,Dawes Road,2018,1381
+094,Wychwood,DT,Davenport,2018,452
+092,Corso Italia-Davenport,DU,Dufferin/St. Clair,2018,1420
+158,Islington,EA,Eatonville,2018,3085
+011,Eringate-Centennial-West Deane,EB,Elmbrook Park,2018,476
+110,Keelesdale-Eglinton West,EG,Evelyn Gregory,2018,605
+052,Bayview Village,EN,Ethennonnhawahstihnen',2018,2812
+120,Clairlea-Birchmount,ES,Eglinton Square,2018,2646
+102,Forest Hill North,FH,Forest Hill,2018,1093
+165,Harbourfront-CityPlace,FO,Fort York,2018,4097
+044,Flemingdon Park,FP,Flemingdon Park,2018,1132
+047,Don Valley Village,FV,Fairview,2018,8251
+065,Greenwood-Coxwell,GE,Gerrard/Ashdale,2018,774
+130,Milliken,GHP,Goldhawk Park,2018,942
+140,Guildwood,GW,Guildwood,2018,477
+016,Stonegate-Queensway,HB,Humber Bay,2018,783
+134,Highland Creek,HC,Highland Creek,2018,1016
+048,Hillcrest Village,HIL,Hillcrest,2018,1057
+087,High Park-Swansea,HP,High Park,2018,1525
+021,Humber Summit,HS,Humber Summit,2018,790
+001,West Humber-Clairville,HW,Humberwood,2018,680
+089,Runnymede-Bloor West Village,JD,Jane/Dundas,2018,1672
+070,South Riverdale,JO,Jones,2018,907
+025,Glenfield-Jane Heights,JS,Jane/Sheppard,2018,1270
+125,Ionview,KE,Kennedy/Eglinton,2018,1492
+019,Long Branch,LB,Long Branch,2018,908
+056,Leaside-Bennington,LE,Leaside,2018,1511
+103,Lawrence Park South,LO,Locke,2018,2111
+078,Kensington-Chinatown,LS,Lillian H. Smith,2018,3555
+062,East End-Danforth,MA,Main Street,2018,1195
+146,Malvern East,MAL,Malvern,2018,3394
+107,Oakwood-Vaughan,MAS,Maria A. Shchuka,2018,1873
+126,Dorset Park,MCG,McGregor Park,2018,1542
+115,Mount Dennis,MD,Mount Dennis,2018,912
+160,Mimico-Queensway,MI,Mimico Centennial,2018,1056
+099,Mount Pleasant East,MP,Mount Pleasant,2018,837
+119,Wexford-Maryvale,MRV,Maryvale,2018,1538
+136,West Hill,MS,Morningside,2018,1573
+100,Yonge-Eglinton,ND,Northern District,2018,4164
+001,West Humber-Clairville,NE,Northern Elms,2018,512
+018,New Toronto,NT,New Toronto,2018,633
+107,Oakwood-Vaughan,OV,Oakwood Village Library and Arts Centre,2018,734
+069,Blake-Jones,PA,Pape/Danforth,2018,2249
+171,Junction-Wallace Emerson,PE,Perth/Dupont,2018,574
+085,South Parkdale,PK,Parkdale,2018,2802
+073,Moss Park,PL,Parliament Street,2018,2071
+095,Annex,PM,Palmerston,2018,1020
+133,Centennial Scarborough,PU,Port Union,2018,1144
+046,Pleasant View,PV,Pleasant View,2018,666
+070,South Riverdale,QS,Queen/Saulter,2018,612
+068,North Riverdale,RD,Riverdale,2018,1322
+007,Willowridge-Martingrove-Richview,RI,Richview,2018,3638
+088,High Park North,RN,Runnymede,2018,2512
+004,Rexdale-Kipling,RX,Rexdale,2018,466
+078,Kensington-Chinatown,SA,Sanderson,2018,2048
+156,Bendale -Glen Andrew,SC,Scarborough Civic Centre,2018,2686
+091,Weston-Pellam Park,SI,St. Clair/Silverthorn,2018,6
+074,North St. James Town,SJ,St. James Town,2018,2137
+166,St Lawrence-East Bayfront-The Islands,SL,St. Lawrence,2018,2140
+095,Annex,SP,Spadina Road,2018,925
+116,Steeles,ST,Steeles,2018,898
+087,High Park-Swansea,SW,Swansea Memorial,2018,124
+059,Danforth Village - East York,SWS,S. Walter Stewart,2018,1760
+122,Birchcliffe-Cliffside,TA,Taylor Memorial,2018,497
+055,Thorncliffe Park,TH,Thorncliffe,2018,1753
+058,Old East York,TOD,Todmorden Room,2018,204
+098,Rosedale-Moore Park,TRL,Toronto Reference Library,2018,14975
+043,Victoria Village,VV,Victoria Village,2018,630
+113,Weston,WE,Weston,2018,1279
+022,Humbermede,WP,Woodview Park,2018,573
+129,Agincourt North,WS,Woodside Square,2018,2387
+096,Casa Loma,WY,Wychwood,2018,579
+095,Annex,YO,Yorkville,2018,1296
+025,Glenfield-Jane Heights,YW,York Woods,2018,3361
+002,Mount Olive-Silverstone-Jamestown,AB,Albion,2019,7314
+120,Clairlea-Birchmount,ACD,Albert Campbell,2019,1352
+020,Alderwood,AD,Alderwood,2019,712
+118,Tam O'Shanter-Sullivan,AG,Agincourt,2019,3404
+039,Bedford Park-Nortown,AH,Armour Heights,2019,842
+090,Junction Area,AN,Annette Street,2019,1274
+030,Brookhaven-Amesbury,AP,Amesbury Park,2019,1000
+150,Fenside-Parkwoods,BB,Brookbanks,2019,1597
+154,Oakdale-Beverley Heights,BC,Black Creek,2019,2389
+157,Bendale South,BD,Bendale,2019,909
+063,The Beaches,BE,Beaches,2019,1887
+032,Englemount-Lawrence,BF,Barbara Frum,2019,3112
+083,Dufferin Grove,BL,Bloor/Gladstone,2019,4130
+015,Kingsway South,BR,Brentwood,2019,2858
+147,L'Amoreaux West,BRW,Bridlewood,2019,2625
+146,Malvern East,BUR,Burrows Hall,2019,1130
+123,Cliffcrest,CC,Cliffcrest,2019,1074
+035,Westminster-Branson,CE,Centennial,2019,2120
+141,Golfdale-Cedarbrae-Woburn,CED,Cedarbrae,2019,4849
+170,Yonge-Bay Corridor,CH,City Hall,2019,3798
+037,Willowdale West,CL,North York Central Library,2019,14523
+080,Palmerston-Little Italy,CS,College/Shaw,2019,1462
+064,Woodbine Corridor,DA,Danforth/Coxwell,2019,1555
+042,Banbury-Don Mills,DM,Don Mills,2019,2137
+155,Downsview,DO,Downsview,2019,1796
+098,Rosedale-Moore Park,DP,Deer Park,2019,2334
+054,O'Connor-Parkview,DR,Dawes Road,2019,1282
+094,Wychwood,DT,Davenport,2019,560
+092,Corso Italia-Davenport,DU,Dufferin/St. Clair,2019,1442
+158,Islington,EA,Eatonville,2019,3621
+011,Eringate-Centennial-West Deane,EB,Elmbrook Park,2019,512
+110,Keelesdale-Eglinton West,EG,Evelyn Gregory,2019,731
+052,Bayview Village,EN,Ethennonnhawahstihnen',2019,2582
+120,Clairlea-Birchmount,ES,Eglinton Square,2019,2799
+102,Forest Hill North,FH,Forest Hill,2019,1091
+165,Harbourfront-CityPlace,FO,Fort York,2019,4769
+044,Flemingdon Park,FP,Flemingdon Park,2019,1204
+047,Don Valley Village,FV,Fairview,2019,7751
+065,Greenwood-Coxwell,GE,Gerrard/Ashdale,2019,832
+130,Milliken,GHP,Goldhawk Park,2019,851
+140,Guildwood,GW,Guildwood,2019,342
+016,Stonegate-Queensway,HB,Humber Bay,2019,926
+134,Highland Creek,HC,Highland Creek,2019,1116
+048,Hillcrest Village,HIL,Hillcrest,2019,980
+087,High Park-Swansea,HP,High Park,2019,1874
+021,Humber Summit,HS,Humber Summit,2019,685
+001,West Humber-Clairville,HW,Humberwood,2019,669
+089,Runnymede-Bloor West Village,JD,Jane/Dundas,2019,1755
+070,South Riverdale,JO,Jones,2019,896
+025,Glenfield-Jane Heights,JS,Jane/Sheppard,2019,1781
+125,Ionview,KE,Kennedy/Eglinton,2019,1568
+019,Long Branch,LB,Long Branch,2019,899
+056,Leaside-Bennington,LE,Leaside,2019,1530
+103,Lawrence Park South,LO,Locke,2019,2157
+078,Kensington-Chinatown,LS,Lillian H. Smith,2019,3362
+062,East End-Danforth,MA,Main Street,2019,1202
+146,Malvern East,MAL,Malvern,2019,3332
+107,Oakwood-Vaughan,MAS,Maria A. Shchuka,2019,1819
+126,Dorset Park,MCG,McGregor Park,2019,1680
+115,Mount Dennis,MD,Mount Dennis,2019,1027
+160,Mimico-Queensway,MI,Mimico Centennial,2019,1129
+099,Mount Pleasant East,MP,Mount Pleasant,2019,776
+119,Wexford-Maryvale,MRV,Maryvale,2019,1505
+136,West Hill,MS,Morningside,2019,1528
+100,Yonge-Eglinton,ND,Northern District,2019,4118
+001,West Humber-Clairville,NE,Northern Elms,2019,555
+018,New Toronto,NT,New Toronto,2019,788
+107,Oakwood-Vaughan,OV,Oakwood Village Library and Arts Centre,2019,939
+069,Blake-Jones,PA,Pape/Danforth,2019,2105
+171,Junction-Wallace Emerson,PE,Perth/Dupont,2019,548
+085,South Parkdale,PK,Parkdale,2019,2068
+073,Moss Park,PL,Parliament Street,2019,1102
+095,Annex,PM,Palmerston,2019,1176
+133,Centennial Scarborough,PU,Port Union,2019,1076
+046,Pleasant View,PV,Pleasant View,2019,681
+070,South Riverdale,QS,Queen/Saulter,2019,722
+068,North Riverdale,RD,Riverdale,2019,1466
+007,Willowridge-Martingrove-Richview,RI,Richview,2019,3800
+088,High Park North,RN,Runnymede,2019,2536
+004,Rexdale-Kipling,RX,Rexdale,2019,514
+078,Kensington-Chinatown,SA,Sanderson,2019,2158
+156,Bendale -Glen Andrew,SC,Scarborough Civic Centre,2019,2836
+091,Weston-Pellam Park,SI,St. Clair/Silverthorn,2019,254
+074,North St. James Town,SJ,St. James Town,2019,2297
+166,St Lawrence-East Bayfront-The Islands,SL,St. Lawrence,2019,2550
+095,Annex,SP,Spadina Road,2019,1083
+116,Steeles,ST,Steeles,2019,1570
+087,High Park-Swansea,SW,Swansea Memorial,2019,133
+059,Danforth Village - East York,SWS,S. Walter Stewart,2019,1955
+122,Birchcliffe-Cliffside,TA,Taylor Memorial,2019,545
+055,Thorncliffe Park,TH,Thorncliffe,2019,1948
+058,Old East York,TOD,Todmorden Room,2019,244
+098,Rosedale-Moore Park,TRL,Toronto Reference Library,2019,14461
+043,Victoria Village,VV,Victoria Village,2019,544
+113,Weston,WE,Weston,2019,1518
+022,Humbermede,WP,Woodview Park,2019,784
+129,Agincourt North,WS,Woodside Square,2019,2341
+096,Casa Loma,WY,Wychwood,2019,17
+095,Annex,YO,Yorkville,2019,1349
+025,Glenfield-Jane Heights,YW,York Woods,2019,2773
+002,Mount Olive-Silverstone-Jamestown,AB,Albion,2020,2072
+120,Clairlea-Birchmount,ACD,Albert Campbell,2020,25
+020,Alderwood,AD,Alderwood,2020,164
+118,Tam O'Shanter-Sullivan,AG,Agincourt,2020,1064
+039,Bedford Park-Nortown,AH,Armour Heights,2020,194
+090,Junction Area,AN,Annette Street,2020,450
+030,Brookhaven-Amesbury,AP,Amesbury Park,2020,408
+150,Fenside-Parkwoods,BB,Brookbanks,2020,385
+154,Oakdale-Beverley Heights,BC,Black Creek,2020,494
+157,Bendale South,BD,Bendale,2020,341
+063,The Beaches,BE,Beaches,2020,813
+032,Englemount-Lawrence,BF,Barbara Frum,2020,862
+083,Dufferin Grove,BL,Bloor/Gladstone,2020,1344
+015,Kingsway South,BR,Brentwood,2020,917
+147,L'Amoreaux West,BRW,Bridlewood,2020,673
+146,Malvern East,BUR,Burrows Hall,2020,203
+123,Cliffcrest,CC,Cliffcrest,2020,504
+035,Westminster-Branson,CE,Centennial,2020,758
+141,Golfdale-Cedarbrae-Woburn,CED,Cedarbrae,2020,1594
+170,Yonge-Bay Corridor,CH,City Hall,2020,1268
+037,Willowdale West,CL,North York Central Library,2020,3481
+080,Palmerston-Little Italy,CS,College/Shaw,2020,544
+064,Woodbine Corridor,DA,Danforth/Coxwell,2020,560
+042,Banbury-Don Mills,DM,Don Mills,2020,805
+155,Downsview,DO,Downsview,2020,691
+098,Rosedale-Moore Park,DP,Deer Park,2020,782
+054,O'Connor-Parkview,DR,Dawes Road,2020,501
+094,Wychwood,DT,Davenport,2020,122
+092,Corso Italia-Davenport,DU,Dufferin/St. Clair,2020,496
+158,Islington,EA,Eatonville,2020,1151
+011,Eringate-Centennial-West Deane,EB,Elmbrook Park,2020,143
+110,Keelesdale-Eglinton West,EG,Evelyn Gregory,2020,164
+052,Bayview Village,EN,Ethennonnhawahstihnen',2020,700
+120,Clairlea-Birchmount,ES,Eglinton Square,2020,603
+102,Forest Hill North,FH,Forest Hill,2020,442
+165,Harbourfront-CityPlace,FO,Fort York,2020,1874
+044,Flemingdon Park,FP,Flemingdon Park,2020,287
+047,Don Valley Village,FV,Fairview,2020,2168
+065,Greenwood-Coxwell,GE,Gerrard/Ashdale,2020,242
+130,Milliken,GHP,Goldhawk Park,2020,299
+140,Guildwood,GW,Guildwood,2020,227
+016,Stonegate-Queensway,HB,Humber Bay,2020,172
+134,Highland Creek,HC,Highland Creek,2020,388
+048,Hillcrest Village,HIL,Hillcrest,2020,330
+087,High Park-Swansea,HP,High Park,2020,625
+021,Humber Summit,HS,Humber Summit,2020,192
+001,West Humber-Clairville,HW,Humberwood,2020,116
+089,Runnymede-Bloor West Village,JD,Jane/Dundas,2020,572
+070,South Riverdale,JO,Jones,2020,339
+025,Glenfield-Jane Heights,JS,Jane/Sheppard,2020,617
+125,Ionview,KE,Kennedy/Eglinton,2020,507
+019,Long Branch,LB,Long Branch,2020,354
+056,Leaside-Bennington,LE,Leaside,2020,625
+103,Lawrence Park South,LO,Locke,2020,891
+078,Kensington-Chinatown,LS,Lillian H. Smith,2020,1285
+062,East End-Danforth,MA,Main Street,2020,462
+146,Malvern East,MAL,Malvern,2020,1042
+107,Oakwood-Vaughan,MAS,Maria A. Shchuka,2020,670
+126,Dorset Park,MCG,McGregor Park,2020,538
+115,Mount Dennis,MD,Mount Dennis,2020,358
+160,Mimico-Queensway,MI,Mimico Centennial,2020,483
+099,Mount Pleasant East,MP,Mount Pleasant,2020,147
+119,Wexford-Maryvale,MRV,Maryvale,2020,331
+136,West Hill,MS,Morningside,2020,633
+100,Yonge-Eglinton,ND,Northern District,2020,1539
+001,West Humber-Clairville,NE,Northern Elms,2020,210
+018,New Toronto,NT,New Toronto,2020,254
+107,Oakwood-Vaughan,OV,Oakwood Village Library and Arts Centre,2020,341
+069,Blake-Jones,PA,Pape/Danforth,2020,824
+171,Junction-Wallace Emerson,PE,Perth/Dupont,2020,113
+085,South Parkdale,PK,Parkdale,2020,1201
+073,Moss Park,PL,Parliament Street,2020,965
+095,Annex,PM,Palmerston,2020,604
+133,Centennial Scarborough,PU,Port Union,2020,195
+046,Pleasant View,PV,Pleasant View,2020,248
+070,South Riverdale,QS,Queen/Saulter,2020,168
+068,North Riverdale,RD,Riverdale,2020,517
+007,Willowridge-Martingrove-Richview,RI,Richview,2020,1230
+088,High Park North,RN,Runnymede,2020,886
+004,Rexdale-Kipling,RX,Rexdale,2020,108
+078,Kensington-Chinatown,SA,Sanderson,2020,628
+156,Bendale -Glen Andrew,SC,Scarborough Civic Centre,2020,995
+091,Weston-Pellam Park,SI,St. Clair/Silverthorn,2020,186
+074,North St. James Town,SJ,St. James Town,2020,378
+166,St Lawrence-East Bayfront-The Islands,SL,St. Lawrence,2020,980
+095,Annex,SP,Spadina Road,2020,187
+116,Steeles,ST,Steeles,2020,315
+087,High Park-Swansea,SW,Swansea Memorial,2020,16
+059,Danforth Village - East York,SWS,S. Walter Stewart,2020,561
+122,Birchcliffe-Cliffside,TA,Taylor Memorial,2020,212
+055,Thorncliffe Park,TH,Thorncliffe,2020,525
+058,Old East York,TOD,Todmorden Room,2020,45
+098,Rosedale-Moore Park,TRL,Toronto Reference Library,2020,4261
+043,Victoria Village,VV,Victoria Village,2020,207
+113,Weston,WE,Weston,2020,445
+022,Humbermede,WP,Woodview Park,2020,252
+129,Agincourt North,WS,Woodside Square,2020,503
+096,Casa Loma,WY,Wychwood,2020,4
+095,Annex,YO,Yorkville,2020,278
+025,Glenfield-Jane Heights,YW,York Woods,2020,396
+002,Mount Olive-Silverstone-Jamestown,AB,Albion,2021,1953
+120,Clairlea-Birchmount,ACD,Albert Campbell,2021,154
+020,Alderwood,AD,Alderwood,2021,363
+118,Tam O'Shanter-Sullivan,AG,Agincourt,2021,1194
+039,Bedford Park-Nortown,AH,Armour Heights,2021,233
+090,Junction Area,AN,Annette Street,2021,462
+030,Brookhaven-Amesbury,AP,Amesbury Park,2021,328
+150,Fenside-Parkwoods,BB,Brookbanks,2021,393
+154,Oakdale-Beverley Heights,BC,Black Creek,2021,284
+157,Bendale South,BD,Bendale,2021,450
+063,The Beaches,BE,Beaches,2021,873
+032,Englemount-Lawrence,BF,Barbara Frum,2021,939
+083,Dufferin Grove,BL,Bloor/Gladstone,2021,1356
+015,Kingsway South,BR,Brentwood,2021,1031
+147,L'Amoreaux West,BRW,Bridlewood,2021,1199
+146,Malvern East,BUR,Burrows Hall,2021,217
+123,Cliffcrest,CC,Cliffcrest,2021,494
+035,Westminster-Branson,CE,Centennial,2021,819
+141,Golfdale-Cedarbrae-Woburn,CED,Cedarbrae,2021,1518
+170,Yonge-Bay Corridor,CH,City Hall,2021,28
+037,Willowdale West,CL,North York Central Library,2021,3894
+080,Palmerston-Little Italy,CS,College/Shaw,2021,625
+064,Woodbine Corridor,DA,Danforth/Coxwell,2021,589
+042,Banbury-Don Mills,DM,Don Mills,2021,940
+155,Downsview,DO,Downsview,2021,801
+098,Rosedale-Moore Park,DP,Deer Park,2021,1186
+054,O'Connor-Parkview,DR,Dawes Road,2021,550
+094,Wychwood,DT,Davenport,2021,51
+092,Corso Italia-Davenport,DU,Dufferin/St. Clair,2021,501
+158,Islington,EA,Eatonville,2021,1166
+011,Eringate-Centennial-West Deane,EB,Elmbrook Park,2021,209
+110,Keelesdale-Eglinton West,EG,Evelyn Gregory,2021,249
+052,Bayview Village,EN,Ethennonnhawahstihnen',2021,1224
+120,Clairlea-Birchmount,ES,Eglinton Square,2021,896
+102,Forest Hill North,FH,Forest Hill,2021,500
+165,Harbourfront-CityPlace,FO,Fort York,2021,2709
+044,Flemingdon Park,FP,Flemingdon Park,2021,536
+047,Don Valley Village,FV,Fairview,2021,2589
+065,Greenwood-Coxwell,GE,Gerrard/Ashdale,2021,311
+130,Milliken,GHP,Goldhawk Park,2021,404
+140,Guildwood,GW,Guildwood,2021,239
+016,Stonegate-Queensway,HB,Humber Bay,2021,210
+134,Highland Creek,HC,Highland Creek,2021,496
+048,Hillcrest Village,HIL,Hillcrest,2021,499
+087,High Park-Swansea,HP,High Park,2021,629
+021,Humber Summit,HS,Humber Summit,2021,204
+001,West Humber-Clairville,HW,Humberwood,2021,254
+089,Runnymede-Bloor West Village,JD,Jane/Dundas,2021,540
+070,South Riverdale,JO,Jones,2021,372
+025,Glenfield-Jane Heights,JS,Jane/Sheppard,2021,564
+125,Ionview,KE,Kennedy/Eglinton,2021,726
+019,Long Branch,LB,Long Branch,2021,387
+056,Leaside-Bennington,LE,Leaside,2021,851
+103,Lawrence Park South,LO,Locke,2021,842
+078,Kensington-Chinatown,LS,Lillian H. Smith,2021,1927
+062,East End-Danforth,MA,Main Street,2021,521
+146,Malvern East,MAL,Malvern,2021,1097
+107,Oakwood-Vaughan,MAS,Maria A. Shchuka,2021,727
+126,Dorset Park,MCG,McGregor Park,2021,608
+115,Mount Dennis,MD,Mount Dennis,2021,323
+160,Mimico-Queensway,MI,Mimico Centennial,2021,527
+099,Mount Pleasant East,MP,Mount Pleasant,2021,4
+119,Wexford-Maryvale,MRV,Maryvale,2021,449
+136,West Hill,MS,Morningside,2021,663
+100,Yonge-Eglinton,ND,Northern District,2021,1765
+001,West Humber-Clairville,NE,Northern Elms,2021,175
+018,New Toronto,NT,New Toronto,2021,260
+107,Oakwood-Vaughan,OV,Oakwood Village Library and Arts Centre,2021,431
+069,Blake-Jones,PA,Pape/Danforth,2021,746
+171,Junction-Wallace Emerson,PE,Perth/Dupont,2021,136
+085,South Parkdale,PK,Parkdale,2021,1225
+073,Moss Park,PL,Parliament Street,2021,1001
+095,Annex,PM,Palmerston,2021,556
+133,Centennial Scarborough,PU,Port Union,2021,245
+046,Pleasant View,PV,Pleasant View,2021,245
+070,South Riverdale,QS,Queen/Saulter,2021,190
+068,North Riverdale,RD,Riverdale,2021,584
+007,Willowridge-Martingrove-Richview,RI,Richview,2021,1232
+088,High Park North,RN,Runnymede,2021,995
+004,Rexdale-Kipling,RX,Rexdale,2021,173
+078,Kensington-Chinatown,SA,Sanderson,2021,663
+156,Bendale -Glen Andrew,SC,Scarborough Civic Centre,2021,1214
+091,Weston-Pellam Park,SI,St. Clair/Silverthorn,2021,254
+074,North St. James Town,SJ,St. James Town,2021,350
+166,St Lawrence-East Bayfront-The Islands,SL,St. Lawrence,2021,1068
+095,Annex,SP,Spadina Road,2021,267
+116,Steeles,ST,Steeles,2021,418
+087,High Park-Swansea,SW,Swansea Memorial,2021,1
+059,Danforth Village - East York,SWS,S. Walter Stewart,2021,648
+122,Birchcliffe-Cliffside,TA,Taylor Memorial,2021,245
+055,Thorncliffe Park,TH,Thorncliffe,2021,580
+058,Old East York,TOD,Todmorden Room,2021,50
+098,Rosedale-Moore Park,TRL,Toronto Reference Library,2021,3815
+043,Victoria Village,VV,Victoria Village,2021,226
+113,Weston,WE,Weston,2021,488
+022,Humbermede,WP,Woodview Park,2021,190
+129,Agincourt North,WS,Woodside Square,2021,754
+096,Casa Loma,WY,Wychwood,2021,18
+095,Annex,YO,Yorkville,2021,464
+025,Glenfield-Jane Heights,YW,York Woods,2021,415
+002,Mount Olive-Silverstone-Jamestown,AB,Albion,2022,5093
+120,Clairlea-Birchmount,ACD,Albert Campbell,2022,1577
+020,Alderwood,AD,Alderwood,2022,711
+118,Tam O'Shanter-Sullivan,AG,Agincourt,2022,2959
+039,Bedford Park-Nortown,AH,Armour Heights,2022,398
+090,Junction Area,AN,Annette Street,2022,905
+030,Brookhaven-Amesbury,AP,Amesbury Park,2022,1019
+150,Fenside-Parkwoods,BB,Brookbanks,2022,933
+154,Oakdale-Beverley Heights,BC,Black Creek,2022,994
+157,Bendale South,BD,Bendale,2022,942
+063,The Beaches,BE,Beaches,2022,1587
+032,Englemount-Lawrence,BF,Barbara Frum,2022,2125
+083,Dufferin Grove,BL,Bloor/Gladstone,2022,2694
+015,Kingsway South,BR,Brentwood,2022,2116
+147,L'Amoreaux West,BRW,Bridlewood,2022,2632
+146,Malvern East,BUR,Burrows Hall,2022,835
+123,Cliffcrest,CC,Cliffcrest,2022,1154
+035,Westminster-Branson,CE,Centennial,2022,1848
+141,Golfdale-Cedarbrae-Woburn,CED,Cedarbrae,2022,3543
+170,Yonge-Bay Corridor,CH,City Hall,2022,1938
+037,Willowdale West,CL,North York Central Library,2022,9855
+080,Palmerston-Little Italy,CS,College/Shaw,2022,1044
+064,Woodbine Corridor,DA,Danforth/Coxwell,2022,1296
+042,Banbury-Don Mills,DM,Don Mills,2022,1982
+155,Downsview,DO,Downsview,2022,1978
+098,Rosedale-Moore Park,DP,Deer Park,2022,1792
+054,O'Connor-Parkview,DR,Dawes Road,2022,1149
+094,Wychwood,DT,Davenport,2022,367
+092,Corso Italia-Davenport,DU,Dufferin/St. Clair,2022,1010
+158,Islington,EA,Eatonville,2022,2771
+011,Eringate-Centennial-West Deane,EB,Elmbrook Park,2022,514
+110,Keelesdale-Eglinton West,EG,Evelyn Gregory,2022,584
+052,Bayview Village,EN,Ethennonnhawahstihnen',2022,2031
+120,Clairlea-Birchmount,ES,Eglinton Square,2022,1928
+102,Forest Hill North,FH,Forest Hill,2022,889
+165,Harbourfront-CityPlace,FO,Fort York,2022,4509
+044,Flemingdon Park,FP,Flemingdon Park,2022,1221
+047,Don Valley Village,FV,Fairview,2022,5675
+065,Greenwood-Coxwell,GE,Gerrard/Ashdale,2022,509
+130,Milliken,GHP,Goldhawk Park,2022,819
+140,Guildwood,GW,Guildwood,2022,430
+016,Stonegate-Queensway,HB,Humber Bay,2022,651
+134,Highland Creek,HC,Highland Creek,2022,811
+048,Hillcrest Village,HIL,Hillcrest,2022,771
+087,High Park-Swansea,HP,High Park,2022,1167
+021,Humber Summit,HS,Humber Summit,2022,481
+001,West Humber-Clairville,HW,Humberwood,2022,574
+089,Runnymede-Bloor West Village,JD,Jane/Dundas,2022,1404
+070,South Riverdale,JO,Jones,2022,748
+025,Glenfield-Jane Heights,JS,Jane/Sheppard,2022,1398
+125,Ionview,KE,Kennedy/Eglinton,2022,1859
+019,Long Branch,LB,Long Branch,2022,736
+056,Leaside-Bennington,LE,Leaside,2022,1432
+103,Lawrence Park South,LO,Locke,2022,1204
+078,Kensington-Chinatown,LS,Lillian H. Smith,2022,3242
+062,East End-Danforth,MA,Main Street,2022,1040
+146,Malvern East,MAL,Malvern,2022,2799
+107,Oakwood-Vaughan,MAS,Maria A. Shchuka,2022,1424
+126,Dorset Park,MCG,McGregor Park,2022,1434
+115,Mount Dennis,MD,Mount Dennis,2022,866
+160,Mimico-Queensway,MI,Mimico Centennial,2022,935
+099,Mount Pleasant East,MP,Mount Pleasant,2022,7
+119,Wexford-Maryvale,MRV,Maryvale,2022,1340
+136,West Hill,MS,Morningside,2022,1557
+100,Yonge-Eglinton,ND,Northern District,2022,3819
+001,West Humber-Clairville,NE,Northern Elms,2022,380
+018,New Toronto,NT,New Toronto,2022,698
+107,Oakwood-Vaughan,OV,Oakwood Village Library and Arts Centre,2022,691
+069,Blake-Jones,PA,Pape/Danforth,2022,1515
+171,Junction-Wallace Emerson,PE,Perth/Dupont,2022,442
+085,South Parkdale,PK,Parkdale,2022,2718
+073,Moss Park,PL,Parliament Street,2022,1873
+095,Annex,PM,Palmerston,2022,879
+133,Centennial Scarborough,PU,Port Union,2022,838
+046,Pleasant View,PV,Pleasant View,2022,582
+070,South Riverdale,QS,Queen/Saulter,2022,620
+068,North Riverdale,RD,Riverdale,2022,976
+007,Willowridge-Martingrove-Richview,RI,Richview,2022,3175
+088,High Park North,RN,Runnymede,2022,2074
+004,Rexdale-Kipling,RX,Rexdale,2022,365
+078,Kensington-Chinatown,SA,Sanderson,2022,1257
+156,Bendale -Glen Andrew,SC,Scarborough Civic Centre,2022,2536
+091,Weston-Pellam Park,SI,St. Clair/Silverthorn,2022,450
+074,North St. James Town,SJ,St. James Town,2022,1864
+166,St Lawrence-East Bayfront-The Islands,SL,St. Lawrence,2022,1880
+095,Annex,SP,Spadina Road,2022,747
+116,Steeles,ST,Steeles,2022,1097
+087,High Park-Swansea,SW,Swansea Memorial,2022,157
+059,Danforth Village - East York,SWS,S. Walter Stewart,2022,1488
+122,Birchcliffe-Cliffside,TA,Taylor Memorial,2022,408
+055,Thorncliffe Park,TH,Thorncliffe,2022,1589
+058,Old East York,TOD,Todmorden Room,2022,183
+098,Rosedale-Moore Park,TRL,Toronto Reference Library,2022,9448
+043,Victoria Village,VV,Victoria Village,2022,444
+113,Weston,WE,Weston,2022,1080
+022,Humbermede,WP,Woodview Park,2022,413
+129,Agincourt North,WS,Woodside Square,2022,1788
+096,Casa Loma,WY,Wychwood,2022,1035
+095,Annex,YO,Yorkville,2022,1081
+025,Glenfield-Jane Heights,YW,York Woods,2022,1116
