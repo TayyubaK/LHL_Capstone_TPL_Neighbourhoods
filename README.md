@@ -1,4 +1,4 @@
-# LHL_Capstone_TPL_Neighbourhoods
+# LHL Capstone - Profile of Library Use by Toronto Neighbourhoods
 
 The Toronto Public Library network is a city service comprising of 100 physical branches spread out within the 158 neighbourhoods of Toronto. Libraries allow borrowing of physical and electronic materials, but can also be a hub for community programs and resources.
 
