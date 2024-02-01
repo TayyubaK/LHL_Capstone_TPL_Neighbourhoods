@@ -52,7 +52,19 @@ Tableau
     * Looking at post-COVID recovery (2021-2022), all 4 measures show a positive trend. However, the incline for circulations (checkouts of physical and electronic media) is not as steep. It could be worth looking into what is impacting this measure.
 
 ## Challenges 
+* Not all neighbourhoods have a physical library branch. Merging neighbourhood-level data and branch-level data initially caused issues with some neighbourhoods dropping off. Even knowing which neighbourhoods have no branches is useful information. This was addressed to a degree with sourcing the filter from the neighbourhood-level data.
+* Scope creep - originally neighbourhood crime stats were cleaned and reviewed as well. However the dataset was very large and did not add more to the question about libraries. Ultimately the dataset was not used for visualizations.
+* The best table layouts for regression model building were different than what was best for Tableau. Separate data wrangling was required for each purpose.
+* Datasets were for different levels of granularity and for different time intervals. Data manipulation required careful consideration of data integrity and time period compatibility between datasets.
 
+![Data_Matrix](https://github.com/TayyubaK/LHL_Capstone_TPL_Neighbourhoods/assets/143013434/d604d41e-e82f-47cb-9142-589d9655a02b)
 
 ## Future Goals
+* Create postgreSQL database with normalized tables - would make it easier to drill up/down, make custom tables
+* Rework Tableau layout with added neighbourhood demographic information and different drill-up/drill-down interactivity.
+* Explore classification models instead of regression models. Perhaps neighbourhood classification has an impact on library usage measurements.
+* Explore relationships between crime statistics and neighbourhoods as the dataset has already been cleaned.
+
+
+
 
